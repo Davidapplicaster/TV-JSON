@@ -58,7 +58,7 @@
       "published": "2005-04-06T20:25:05-08:00",
       "updated": "2005-04-06T20:25:05-08:00",
       "content": {
-        "src": https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/sonic.mp4",
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/sonic.mp4",
         "type": "video/hls"
       },
       "link": {
