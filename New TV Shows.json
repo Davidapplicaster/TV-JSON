@@ -1,18 +1,18 @@
 {
   "type": {
-    "value": "video"
+    "value": "feed"
   },
   "entry": [
     {
       "type": {
-        "value": "video"
+        "value": "feed"
       },
       "id": "QBS-TTV001",
       "title": "Upload",
       "summary": "",
       "content": {
-       "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
-        "type": "video/hls"
+        "type": "feed",
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBUViUyMFNob3dzL1FCUy1EdW1teS1VcGxvYWQuanNvbg=="
       },
       "media_group": [
         {
@@ -29,14 +29,14 @@
     },
     {
       "type": {
-        "value": "video"
+        "value": "feed"
       },
       "id": "QBS-TTV002",
       "title": "Westworld",
       "summary": "",
       "content": {
-        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/westworld.mp4",
-        "type": "video/hls"
+        "type": "feed",
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBUViUyMFNob3dzL1FCUy1EdW1teS1XZXN0d29ybGQuanNvbg=="
       },
       "media_group": [
         {
@@ -53,14 +53,14 @@
     },
     {
       "type": {
-        "value": "video"
+        "value": "feed"
       },
       "id": "QBS-NTS003",
       "title": "Better Call Saul",
       "summary": "",
       "content": {
-        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
-        "type": "video/hls"
+        "type": "feed",
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBUViUyMFNob3dzL1FCUy1EdW1teS1XZXN0d29ybGQuanNvbg=="
       },
       "media_group": [
         {
@@ -77,14 +77,14 @@
     },
     {
       "type": {
-        "value": "video"
+        "value": "feed"
       },
       "id": "QBS-TTV004",
       "title": "Chernobyl",
       "summary": "",
       "content": {
-       "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
-        "type": "video/hls"
+        "type": "feed",
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBUViUyMFNob3dzL1FCUy1EdW1teS1XZXN0d29ybGQuanNvbg=="
       },
       "media_group": [
         {
@@ -101,14 +101,14 @@
     },
     {
       "type": {
-        "value": "video"
+        "value": "feed"
       },
       "id": "QBS-TTV005",
       "title": "Killing Eve",
       "summary": "",
       "content": {
-        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
-        "type": "video/hls"
+        "type": "feed",
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBUViUyMFNob3dzL1FCUy1EdW1teS1LaWxsaW5nLUV2ZS5qc29u"
       },
       "media_group": [
         {
@@ -125,15 +125,16 @@
     },
     {
       "type": {
-        "value": "video"
+        "value": "feed"
       },
       "id": "QBS-TTV006",
       "title": "iZombie",
       "summary": "",
-     "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
-        "type": "video/hls"
-    },
-    "media_group": [
+      "content": {
+        "type": "feed",
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBUViUyMFNob3dzL1FCUy1EdW1teS1XZXN0d29ybGQuanNvbg=="
+      },
+      "media_group": [
         {
           "type": "image",
           "media_item": [
@@ -148,14 +149,14 @@
     },
     {
       "type": {
-        "value": "video"
+        "value": "feed"
       },
       "id": "QBS-TTV007",
       "title": "Walking Dead",
       "summary": "",
       "content": {
-        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
-        "type": "video/hls"
+        "type": "feed",
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBUViUyMFNob3dzL1FCUy1EdW1teS1XZXN0d29ybGQuanNvbg=="
       },
       "media_group": [
         {
@@ -172,14 +173,14 @@
     },
     {
       "type": {
-        "value": "video"
+        "value": "feed"
       },
       "id": "QBS-TTV008",
       "title": "What We Do In The Shadows",
       "summary": "",
       "content": {
-       "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
-        "type": "video/hls"
+        "type": "feed",
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBUViUyMFNob3dzL1FCUy1EdW1teS1XV0RJVFMuanNvbg=="
       },
       "media_group": [
         {
@@ -196,14 +197,14 @@
     },
     {
       "type": {
-        "value": "video"
+        "value": "feed"
       },
       "id": "QBS-TTV009",
       "title": "Brooklyn Nine-Nine",
       "summary": "",
       "content": {
-        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
-        "type": "video/hls"
+        "type": "feed",
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBUViUyMFNob3dzL1FCUy1EdW1teS1XZXN0d29ybGQuanNvbg=="
       },
       "media_group": [
         {
@@ -220,14 +221,14 @@
     },
     {
       "type": {
-        "value": "video"
+        "value": "feed"
       },
       "id": "QBS-TTV010",
       "title": "Bosch",
       "summary": "",
       "content": {
-       "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
-        "type": "video/hls"
+        "type": "feed",
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBUViUyMFNob3dzL1FCUy1EdW1teS1XZXN0d29ybGQuanNvbg=="
       },
       "media_group": [
         {
@@ -244,14 +245,14 @@
     },
     {
       "type": {
-        "value": "video"
+        "value": "feed"
       },
       "id": "QBS-TTV011",
       "title": "Game Of Thrones",
       "summary": "",
       "content": {
-       "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
-        "type": "video/hls"
+        "type": "feed",
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBUViUyMFNob3dzL1FCUy1EdW1teS1XZXN0d29ybGQuanNvbg=="
       },
       "media_group": [
         {
@@ -268,14 +269,14 @@
     },
     {
       "type": {
-        "value": "video"
+        "value": "feed"
       },
       "id": "QBS-TTV012",
       "title": "Mr Robot",
       "summary": "",
       "content": {
-       "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
-        "type": "video/hls"
+        "type": "feed",
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBUViUyMFNob3dzL1FCUy1EdW1teS1XZXN0d29ybGQuanNvbg=="
       },
       "media_group": [
         {
@@ -292,14 +293,14 @@
     },
     {
       "type": {
-        "value": "video"
+        "value": "feed"
       },
       "id": "QBS-TTV013",
       "title": "The Good Place",
       "summary": "",
       "content": {
-       "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
-        "type": "video/hls"
+        "type": "feed",
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBUViUyMFNob3dzL1FCUy1EdW1teS1XZXN0d29ybGQuanNvbg=="
       },
       "media_group": [
         {
@@ -316,14 +317,14 @@
     },
     {
       "type": {
-        "value": "video"
+        "value": "feed"
       },
       "id": "QBS-TTV014",
       "title": "Modern Family",
       "summary": "",
       "content": {
-        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
-        "type": "video/hls"
+        "type": "feed",
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBUViUyMFNob3dzL1FCUy1EdW1teS1XZXN0d29ybGQuanNvbg=="
       },
       "media_group": [
         {
