@@ -5,13 +5,13 @@
   "entry": [
     {
       "type": {
-        "value": "video"
+        "value": "feed  "
       },
       "id": "QBS-TTV001",
       "title": "Upload",
       "summary": "",
       "content": {
-        src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+       "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
         "type": "video/hls"
       },
       "media_group": [
