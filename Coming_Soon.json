@@ -71,7 +71,7 @@
           "media_item": [
             {
               "key": "image_trailer",
-              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Trailers/sonic.png",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/sonic.mp4",
               "type": "extern_image"
             },
             {
@@ -100,7 +100,7 @@
       "published": "2005-04-06T20:25:05-08:00",
       "updated": "2005-04-06T20:25:05-08:00",
       "content": {
-        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8",
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/david-copperfield.mp4",
         "type": "video/hls"
       },
       "link": {
@@ -142,7 +142,7 @@
       "published": "2005-04-06T20:25:05-08:00",
       "updated": "2005-04-06T20:25:05-08:00",
       "content": {
-        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8",
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/extraction.mp4",
         "type": "video/hls"
       },
       "link": {
@@ -184,7 +184,7 @@
       "published": "2005-04-06T20:25:05-08:00",
       "updated": "2005-04-06T20:25:05-08:00",
       "content": {
-        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8",
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/Onward-Trailer.mp4",
         "type": "video/hls"
       },
       "link": {
