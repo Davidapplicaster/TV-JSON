@@ -57,7 +57,7 @@
           "media_item": [
             {
               "key": "image_base",
-              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/comedy.png",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Comedy.png",
               "type": "extern_image"
             }
           ]
@@ -89,7 +89,7 @@
           "media_item": [
             {
               "key": "image_base",
-              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/drama.png",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Drama.png",
               "type": "extern_image"
             }
           ]
@@ -121,7 +121,7 @@
           "media_item": [
             {
               "key": "image_base",
-              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/factual.png",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Factual.png",
               "type": "extern_image"
             }
           ]
@@ -153,7 +153,7 @@
           "media_item": [
             {
               "key": "image_base",
-              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/kids.png",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Kids.png",
               "type": "extern_image"
             }
           ]
@@ -217,7 +217,7 @@
           "media_item": [
             {
               "key": "image_base",
-              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/sport.png",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Sport.png",
               "type": "extern_image"
             }
           ]
@@ -249,7 +249,7 @@
           "media_item": [
             {
               "key": "image_base",
-              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/thriller.png",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Thriller.png",
               "type": "extern_image"
             }
           ]
