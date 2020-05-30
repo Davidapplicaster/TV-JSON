@@ -1,0 +1,373 @@
+{
+  "type": {
+    "value": "feed"
+  },
+  "entry": [
+    {
+      "type": {
+        "value": "feed"
+      },
+      "id": "QBS-NM000",
+      "title": "The Personal History of David Copperfield",
+      "summary": "",
+      "content": {
+        "type": "feed",
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBNb3ZpZXMvUUJTLUR1bW15LURDLmpzb24="
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/david-copperfield.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": {
+        "value": "feed"
+      },
+      "id": "QBS-NM001",
+      "title": "Doctor Sleep",
+      "summary": "",
+      "content": {
+        "type": "feed",
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBNb3ZpZXMvUUJTLUR1bW15LURvY3Rvci1TbGVlcC5qc29u"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Doctor%20Sleep.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": {
+        "value": "feed"
+      },
+      "id": "QBS-NM002",
+      "title": "Dunkirk",
+      "summary": "",
+      "content": {
+        "type": "feed",
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBNb3ZpZXMvUUJTLUR1bW15LUR1bmtpcmsuanNvbg=="
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Dunkirk.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": {
+        "value": "feed"
+      },
+      "id": "QBS-NM003",
+      "title": "Onward",
+      "summary": "",
+      "content": {
+        "type": "feed",
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBNb3ZpZXMvUUJTLUR1bW15LU9ud2FyZC5qc29u"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/onward.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": {
+        "value": "feed"
+      },
+      "id": "QBS-NM004",
+      "title": "The Call Of The Wild",
+      "summary": "",
+      "content": {
+        "type": "feed",
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBNb3ZpZXMvUUJTLUR1bW15LU9ud2FyZC5qc29u"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/The_Call_of_the_Wild.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": {
+        "value": "feed"
+      },
+      "id": "QBS-NM005",
+      "title": "Toy Story 4",
+      "summary": "",
+      "content": {
+        "type": "feed",
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBNb3ZpZXMvUUJTLUR1bW15LU9ud2FyZC5qc29u"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/toy-story-4.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": {
+        "value": "feed"
+      },
+      "id": "QBS-NM006",
+      "title": "Joker",
+      "summary": "",
+      "content": {
+        "type": "feed",
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBNb3ZpZXMvUUJTLUR1bW15LU9ud2FyZC5qc29u"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Joker.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": {
+        "value": "feed"
+      },
+      "id": "QBS-NM007",
+      "title": "Bad Boys For Life",
+      "summary": "",
+      "content": {
+        "type": "feed",
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBNb3ZpZXMvUUJTLUR1bW15LU9ud2FyZC5qc29u"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Bad%20Boys.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": {
+        "value": "feed"
+      },
+      "id": "QBS-NM008",
+      "title": "1917",
+      "summary": "",
+      "content": {
+        "type": "feed",
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBNb3ZpZXMvUUJTLUR1bW15LU9ud2FyZC5qc29u"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/1917.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": {
+        "value": "feed"
+      },
+      "id": "QBS-NM009",
+      "title": "Fantasy Island",
+      "summary": "",
+      "content": {
+        "type": "feed",
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBNb3ZpZXMvUUJTLUR1bW15LU9ud2FyZC5qc29u"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Fantasy_Island.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": {
+        "value": "feed"
+      },
+      "id": "QBS-NM010",
+      "title": "Incredibles 2",
+      "summary": "",
+      "content": {
+        "type": "feed",
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBNb3ZpZXMvUUJTLUR1bW15LU9ud2FyZC5qc29u"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/The-Incredibles-2.jpg
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": {
+        "value": "feed"
+      },
+      "id": "QBS-NM011",
+      "title": "Capone",
+      "summary": "",
+      "content": {
+        "type": "feed",
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBNb3ZpZXMvUUJTLUR1bW15LU9ud2FyZC5qc29u"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/capone.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": {
+        "value": "feed"
+      },
+      "id": "QBS-NM012",
+      "title": "The Irishman",
+      "summary": "",
+      "content": {
+        "type": "feed",
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBNb3ZpZXMvUUJTLUR1bW15LU9ud2FyZC5qc29u"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Irishman.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": {
+        "value": "feed"
+      },
+      "id": "QBS-NM013",
+      "title": "Dolittle",
+      "summary": "",
+      "content": {
+        "type": "feed",
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBNb3ZpZXMvUUJTLUR1bW15LU9ud2FyZC5qc29u"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/dolittle.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": {
+        "value": "feed"
+      },
+      "id": "QBS-NM014",
+      "title": "Avengers End Game",
+      "summary": "",
+      "content": {
+        "type": "feed",
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBNb3ZpZXMvUUJTLUR1bW15LU9ud2FyZC5qc29u"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Avengers.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "author": {
+    "name": "Applicaster"
+  },
+  "id": "QBS-009",
+  "title": "New Movies",
+  "description": "Don’t miss these modern day classics!"
+}
