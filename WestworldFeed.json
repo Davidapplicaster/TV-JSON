@@ -12,7 +12,7 @@
       "summary": "WESTERN · SCI-FI  ·  2020  ·  RATED 15",
       "content": {
         "type": "feed",
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvV2VzdHdvcmxkX1MxLmpzb24%3D"
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBNb3ZpZXMvUUJTLUR1bW15LU9ud2FyZC5qc29u"
       },
       "extensions": {
         "section": "SCI-FI",
