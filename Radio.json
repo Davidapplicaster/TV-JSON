@@ -30,9 +30,9 @@
         "audio_player_background_image": "https://assets-production.applicaster.com/qa/zapp_qa/automation/images/jpg/image_4.jpg",
         "audio_player_background_color": "#29ABE2",
         "audio_player_channel_icon": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/baseline_library_music_white_48dp.png",
-        "audio_player_title_color": "#010101",
-        "audio_player_summary_color": "",
-        "audio_player_rtl": true,
+        "audio_player_title_color": "#444444",
+        "audio_player_summary_color": "#444444",
+        "audio_player_rtl": false,
         "start_time": "10:30",
         "end_time": "12:00"
       }
@@ -62,11 +62,11 @@
       "extensions": {
         "audio_player_artwork_aspect_ratio": "16:9",
         "audio_player_background_image": "https://assets-production.applicaster.com/qa/zapp_qa/automation/images/jpg/image_4.jpg",
-        "audio_player_background_color": "",
+        "audio_player_background_color": "#29fbe2",
         "audio_player_channel_icon": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/baseline_library_music_white_48dp.png",
-        "audio_player_title_color": "",
-        "audio_player_summary_color": "",
-        "audio_player_rtl": true,
+        "audio_player_title_color": "#444444",
+        "audio_player_summary_color": "#444444",
+        "audio_player_rtl": false,
         "start_time": "10:00",
         "end_time": "12:00"
       }
@@ -101,11 +101,11 @@
       "extensions": {
         "audio_player_artwork_aspect_ratio": "16:9",
         "audio_player_background_image": "https://assets-production.applicaster.com/qa/zapp_qa/automation/images/jpg/image_4.jpg",
-        "audio_player_background_color": "",
+        "audio_player_background_color": "#c9fbe2",
         "audio_player_channel_icon": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/baseline_library_music_white_48dp.png",
-        "audio_player_title_color": "",
-        "audio_player_summary_color": "",
-        "audio_player_rtl": true,
+        "audio_player_title_color": "#444444",
+        "audio_player_summary_color": "#444444",
+        "audio_player_rtl": false,
         "start_time": "10:00",
         "end_time": "12:00"
       }
@@ -140,11 +140,11 @@
       "extensions": {
         "audio_player_artwork_aspect_ratio": "16:9",
         "audio_player_background_image": "https://assets-production.applicaster.com/qa/zapp_qa/automation/images/jpg/image_4.jpg",
-        "audio_player_background_color": "",
+        "audio_player_background_color": "#29abe2",
         "audio_player_channel_icon": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/baseline_library_music_white_48dp.png",
-        "audio_player_title_color": "",
-        "audio_player_summary_color": "",
-        "audio_player_rtl": true,
+        "audio_player_title_color": "#444444",
+        "audio_player_summary_color": "#444444",
+        "audio_player_rtl": false,
         "start_time": "10:00",
         "end_time": "12:00"
       }
@@ -179,11 +179,11 @@
       "extensions": {
         "audio_player_artwork_aspect_ratio": "16:9",
         "audio_player_background_image": "https://assets-production.applicaster.com/qa/zapp_qa/automation/images/jpg/image_4.jpg",
-        "audio_player_background_color": "",
+        "audio_player_background_color": "#c9fbe2",
         "audio_player_channel_icon": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/baseline_library_music_white_48dp.png",
-        "audio_player_title_color": "",
-        "audio_player_summary_color": "",
-        "audio_player_rtl": true,
+        "audio_player_title_color": "#444444",
+        "audio_player_summary_color": "#444444",
+        "audio_player_rtl": false,
         "start_time": "10:00",
         "end_time": "12:00"
       }
@@ -218,11 +218,11 @@
       "extensions": {
         "audio_player_artwork_aspect_ratio": "16:9",
         "audio_player_background_image": "https://assets-production.applicaster.com/qa/zapp_qa/automation/images/jpg/image_4.jpg",
-        "audio_player_background_color": "",
+        "audio_player_background_color": "#c9fbe2",
         "audio_player_channel_icon": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/baseline_library_music_white_48dp.png",
-        "audio_player_title_color": "",
-        "audio_player_summary_color": "",
-        "audio_player_rtl": true,
+        "audio_player_title_color": "#444444",
+        "audio_player_summary_color": "#444444",
+        "audio_player_rtl": false,
         "start_time": "10:00",
         "end_time": "12:00"
       }
