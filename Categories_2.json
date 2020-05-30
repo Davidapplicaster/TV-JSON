@@ -66,7 +66,7 @@
       "published": "2019-11-15T10:24:00+00:00",
       "extensions": {
         "free": true,
-        "section": "ACTION",
+        "section": "HORROR",
         "duration": 60
       },
       "media_group": [
@@ -105,7 +105,7 @@
       "published": "2019-11-15T10:19:00+00:00",
       "extensions": {
         "free": false,
-        "section": "DRAMA",
+        "section": "CRIME",
         "duration": 331
       },
       "media_group": [
@@ -218,7 +218,7 @@
       "published": "2019-11-15T09:44:00+00:00",
       "extensions": {
         "free": false,
-        "section": "COMEDY",
+        "section": "POPULAR",
         "duration": 763
       },
       "media_group": [
