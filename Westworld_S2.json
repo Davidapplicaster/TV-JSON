@@ -14,7 +14,7 @@
       "type": {
         "value": "video"
       },
-      "title": "Episode 1 Parce Domine",
+      "title": "Episode 1 Journey Into Night",
       "author": {
         "name": ""
       },
@@ -22,12 +22,12 @@
         "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8",
         "type": "video/hls"
       },
-      "summary": "If you’re stuck in a loop, try walking in a straight line.",
+      "summary": "Bernard and Charlotte take shelter in an underground bunker.",
       "updated": "2019-11-15T10:41:03+00:00",
       "published": "2019-11-15T10:31:00+00:00",
       "extensions": {
         "free": true,
-        "section": "March 15, 2020",
+        "section": "March 15, 2018",
         "duration": 9863
       },
       "media_group": [
@@ -53,7 +53,7 @@
       "type": {
         "value": "video"
       },
-      "title": "Episode 2 The Winter Line",
+      "title": "Episode 2 Reunion",
       "author": {
         "name": ""
       },
@@ -61,12 +61,12 @@
         "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8",
         "type": "video/hls"
       },
-      "summary": "People put up a lot of walls. Bring a sledgehammer to your life.",
+      "summary": "Arnold organizes a demonstration of the hosts.",
       "updated": "2019-11-15T10:41:03+00:00",
       "published": "2019-11-15T10:31:00+00:00",
       "extensions": {
         "free": true,
-        "section": "March 22, 2020",
+        "section": "March 22, 2018",
         "duration": 9863
       },
       "media_group": [
@@ -92,7 +92,7 @@
       "type": {
         "value": "video"
       },
-      "title": "Episode 3 The Absence of Field",
+      "title": "Episode 3 Virtu E Fortuna",
       "author": {
         "name": ""
       },
@@ -100,12 +100,12 @@
         "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8",
         "type": "video/hls"
       },
-      "summary": "People put up a lot of walls. Bring a sledgehammer to your life. Some do not like what they see in the mirror but shouldn't blame the mirror.",
+      "summary": "Charlotte and Bernard track down the decommissioned Peter Abernathy only to be caught by the Confederados",
       "updated": "2019-11-15T10:01:03+00:00",
       "published": "2019-11-15T09:54:00+00:00",
       "extensions": {
         "free": true,
-        "section": "March 29, 2020",
+        "section": "March 29, 2018",
         "duration": 55
       },
       "media_group": [
