@@ -19,14 +19,14 @@
             {
               "type": "image",
               "key": "image_base",
-              "src": "https://www.gstatic.com/webp/gallery3/5.png"
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/sonic.jpg"
             }
           ]
         }
       ],
       "content": {
         "type": "video/hls",
-        "src": "https://assets-production.applicaster.com/qa/zapp_qa/manual/dor/video_test_1280.mp4"
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
       },
       "extensions": {
         "play_next_feed_url": "https://s3.amazonaws.com/assets-production.applicaster.com/qa/zapp_qa/manual/TV/videofeed.xml",
