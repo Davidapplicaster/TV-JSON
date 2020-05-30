@@ -8,8 +8,8 @@
         "value": "video"
       },
       "id": "Id2",
-      "title": "video_feed_with_play_next",
-      "summary": "Video with play next item twelve seconds from end",
+      "title": "Play next demo",
+      "summary": "Next video will play twelve seconds from end",
       "published": "2005-04-06T13:00:00-08:00",
       "updated": "2005-04-06T20:25:05-08:00",
       "media_group": [
