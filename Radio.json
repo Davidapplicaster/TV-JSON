@@ -5,8 +5,8 @@
   "entry": [
     {
       "id": "001",
-      "title": "mp3 VOD audio",
-      "summary": "this item plays item in mp3 format",
+      "title": "Bangin Choonz",
+      "summary": "This is an mp3 AOD",
       "type": {
         "value": "audio"
       },
@@ -39,8 +39,8 @@
     },
     {
       "id": "002",
-      "title": "mp3 VOD audio - image_base_1x1",
-      "summary": "this item plays item in mp3 format",
+      "title": "That's more like it",
+      "summary": "This is an mp3 AOD",
       "type": {
         "value": "audio"
       },
@@ -73,8 +73,8 @@
     },
     {
       "id": "003",
-      "title": "WAV audio + 1:1 and image_base",
-      "summary": "this item contains 2 media items- image_base AND 1:1 [both has src]",
+      "title": "Ancient stuff",
+      "summary": "This is an mp3 AOD",
       "type": {
         "value": "audio"
       },
@@ -112,8 +112,8 @@
     },
     {
       "id": "004",
-      "title": "Hls - Live m3mu8 - image_base Fallback test",
-      "summary": "this item contains 2 media items- image_base key with src AND 1:1 key without src",
+      "title": "Serious news",
+      "summary": "this is a live audio/hls stream",
       "type": {
         "value": "audio"
       },
@@ -151,8 +151,8 @@
     },
     {
       "id": "005",
-      "title": "אייטם אודיו לייב ",
-      "summary": "הרוח נושבת קרירה נוסיף עוד חרטוק למדורה",
+      "title": "Sport",
+      "summary": "This is a live audio/hls stream",
       "type": {
         "value": "audio"
       },
@@ -190,8 +190,8 @@
     },
     {
       "id": "006",
-      "title": "אודיו mp3",
-      "summary": "זהו טקסט בדיקה אדיר ונהדר המכיל טקסט לא מאוד ארוך אך גם לא מאוד קצר וזה נהדר !",
+      "title": "Old Folkies",
+      "summary": "This is a live audio/hls stream",
       "type": {
         "value": "audio"
       },
