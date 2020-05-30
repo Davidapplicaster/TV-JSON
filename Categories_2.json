@@ -257,7 +257,7 @@
       "published": "2019-11-15T10:31:00+00:00",
       "extensions": {
         "free": true,
-        "section": "DRAMA",
+        "section": "SUPERHEROES",
         "duration": 9863
       },
       "media_group": [
@@ -296,7 +296,7 @@
       "published": "2019-11-15T10:24:00+00:00",
       "extensions": {
         "free": true,
-        "section": "DRAMA",
+        "section": "SCI-FI",
         "duration": 60
       },
       "media_group": [
@@ -372,7 +372,7 @@
       "published": "2019-11-15T10:00:15+00:00",
       "extensions": {
         "free": true,
-        "section": "FAMILY",
+        "section": "ENTERTAINMENT",
         "duration": 50
       },
       "media_group": [
@@ -411,7 +411,7 @@
       "published": "2019-11-15T09:54:00+00:00",
       "extensions": {
         "free": true,
-        "section": "FAMILY",
+        "section": "TV SHOWS",
         "duration": 55
       },
       "media_group": [
