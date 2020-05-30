@@ -11,8 +11,8 @@
       "title": "The Personal History of David Copperfield",
       "summary": "",
       "content": {
-        "type": "feed",
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBNb3ZpZXMvUUJTLUR1bW15LURDLmpzb24="
+        "type": "video/hls",
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
       },
       "media_group": [
         {
@@ -59,8 +59,8 @@
       "title": "Dunkirk",
       "summary": "",
       "content": {
-        "type": "feed",
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBNb3ZpZXMvUUJTLUR1bW15LUR1bmtpcmsuanNvbg=="
+       "type": "video/hls",
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
       },
       "media_group": [
         {
@@ -107,8 +107,8 @@
       "title": "The Call Of The Wild",
       "summary": "",
       "content": {
-        "type": "feed",
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBNb3ZpZXMvUUJTLUR1bW15LU9ud2FyZC5qc29u"
+       "type": "video/hls",
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
       },
       "media_group": [
         {
@@ -131,8 +131,8 @@
       "title": "Toy Story 4",
       "summary": "",
       "content": {
-        "type": "feed",
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBNb3ZpZXMvUUJTLUR1bW15LU9ud2FyZC5qc29u"
+        "type": "video/hls",
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
       },
       "media_group": [
         {
@@ -155,8 +155,8 @@
       "title": "Joker",
       "summary": "",
       "content": {
-        "type": "feed",
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBNb3ZpZXMvUUJTLUR1bW15LU9ud2FyZC5qc29u"
+        "type": "video/hls",
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
       },
       "media_group": [
         {
@@ -179,8 +179,8 @@
       "title": "Bad Boys For Life",
       "summary": "",
       "content": {
-        "type": "feed",
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBNb3ZpZXMvUUJTLUR1bW15LU9ud2FyZC5qc29u"
+        "type": "video/hls",
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
       },
       "media_group": [
         {
@@ -203,8 +203,8 @@
       "title": "1917",
       "summary": "",
       "content": {
-        "type": "feed",
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBNb3ZpZXMvUUJTLUR1bW15LU9ud2FyZC5qc29u"
+       "type": "video/hls",
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
       },
       "media_group": [
         {
@@ -227,8 +227,8 @@
       "title": "Fantasy Island",
       "summary": "",
       "content": {
-        "type": "feed",
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBNb3ZpZXMvUUJTLUR1bW15LU9ud2FyZC5qc29u"
+        "type": "video/hls",
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
       },
       "media_group": [
         {
@@ -251,8 +251,8 @@
       "title": "Incredibles 2",
       "summary": "",
       "content": {
-        "type": "feed",
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBNb3ZpZXMvUUJTLUR1bW15LU9ud2FyZC5qc29u"
+        "type": "video/hls",
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
       },
       "media_group": [
         {
@@ -275,8 +275,8 @@
       "title": "Capone",
       "summary": "",
       "content": {
-        "type": "feed",
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBNb3ZpZXMvUUJTLUR1bW15LU9ud2FyZC5qc29u"
+       "type": "video/hls",
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
       },
       "media_group": [
         {
@@ -299,8 +299,8 @@
       "title": "The Irishman",
       "summary": "",
       "content": {
-        "type": "feed",
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBNb3ZpZXMvUUJTLUR1bW15LU9ud2FyZC5qc29u"
+       "type": "video/hls",
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
       },
       "media_group": [
         {
@@ -323,8 +323,8 @@
       "title": "Dolittle",
       "summary": "",
       "content": {
-        "type": "feed",
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBNb3ZpZXMvUUJTLUR1bW15LU9ud2FyZC5qc29u"
+       "type": "video/hls",
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
       },
       "media_group": [
         {
@@ -347,8 +347,8 @@
       "title": "Avengers End Game",
       "summary": "",
       "content": {
-        "type": "feed",
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBNb3ZpZXMvUUJTLUR1bW15LU9ud2FyZC5qc29u"
+        "type": "video/hls",
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
       },
       "media_group": [
         {
