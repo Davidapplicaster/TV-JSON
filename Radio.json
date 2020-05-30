@@ -1,0 +1,231 @@
+{
+  "type": {
+    "value": "feed"
+  },
+  "entry": [
+    {
+      "id": "001",
+      "title": "mp3 VOD audio",
+      "summary": "this item plays item in mp3 format",
+      "type": {
+        "value": "audio"
+      },
+      "content": {
+        "src": "https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/c53b78cf-bdec-4b19-a3c5-ab0c0153f219/audio.mp3"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Radio1.jpg",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "audio_player_artwork_aspect_ratio": "16:9",
+        "audio_player_background_image": "https://assets-production.applicaster.com/qa/zapp_qa/automation/images/jpg/image_4.jpg",
+        "audio_player_background_color": "#29ABE2",
+        "audio_player_channel_icon": "https://assets-production.applicaster.com/qa/zapp_qa/manual/amit/baseline_library_music_white_48dp.png",
+        "audio_player_title_color": "#010101",
+        "audio_player_summary_color": "",
+        "audio_player_rtl": true,
+        "start_time": "10:30",
+        "end_time": "12:00"
+      }
+    },
+    {
+      "id": "002",
+      "title": "mp3 VOD audio - image_base_1x1",
+      "summary": "this item plays item in mp3 format",
+      "type": {
+        "value": "audio"
+      },
+      "content": {
+        "src": "https://kanapi.media.kan.org.il/Redirector/ipbc/direct/kan-gimmel/hls-live.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Radio2.png",
+              "key": "image_base_1x1"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "audio_player_artwork_aspect_ratio": "16:9",
+        "audio_player_background_image": "https://assets-production.applicaster.com/qa/zapp_qa/automation/images/jpg/image_4.jpg",
+        "audio_player_background_color": "",
+        "audio_player_channel_icon": "https://assets-production.applicaster.com/qa/zapp_qa/manual/amit/baseline_library_music_white_48dp.png",
+        "audio_player_title_color": "",
+        "audio_player_summary_color": "",
+        "audio_player_rtl": true,
+        "start_time": "10:00",
+        "end_time": "12:00"
+      }
+    },
+    {
+      "id": "003",
+      "title": "WAV audio + 1:1 and image_base",
+      "summary": "this item contains 2 media items- image_base AND 1:1 [both has src]",
+      "type": {
+        "value": "audio"
+      },
+      "content": {
+        "src": "https://assets-production.applicaster.com/qa/zapp_qa/automation/podcast/wav_example.wav"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Radio3.jpg",
+              "key": "image_base"
+            },
+            {
+              "type": "image",
+              "src": "https://kanweb.blob.core.windows.net/download/pictures/podcastProgram2101_img987449245.jpg",
+              "key": "1:1"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "audio_player_artwork_aspect_ratio": "16:9",
+        "audio_player_background_image": "https://assets-production.applicaster.com/qa/zapp_qa/automation/images/jpg/image_4.jpg",
+        "audio_player_background_color": "",
+        "audio_player_channel_icon": "https://assets-production.applicaster.com/qa/zapp_qa/manual/amit/baseline_library_music_white_48dp.png",
+        "audio_player_title_color": "",
+        "audio_player_summary_color": "",
+        "audio_player_rtl": true,
+        "start_time": "10:00",
+        "end_time": "12:00"
+      }
+    },
+    {
+      "id": "004",
+      "title": "Hls - Live m3mu8 - image_base Fallback test",
+      "summary": "this item contains 2 media items- image_base key with src AND 1:1 key without src",
+      "type": {
+        "value": "audio"
+      },
+      "content": {
+        "src": "https://kanapi.media.kan.org.il/Redirector/ipbc/direct/kan-gimmel/hls-live.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Radio4.jpg",
+              "key": "image_base"
+            },
+            {
+              "type": "image",
+              "src": "",
+              "key": "1:1"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "audio_player_artwork_aspect_ratio": "16:9",
+        "audio_player_background_image": "https://assets-production.applicaster.com/qa/zapp_qa/automation/images/jpg/image_4.jpg",
+        "audio_player_background_color": "",
+        "audio_player_channel_icon": "https://assets-production.applicaster.com/qa/zapp_qa/manual/amit/baseline_library_music_white_48dp.png",
+        "audio_player_title_color": "",
+        "audio_player_summary_color": "",
+        "audio_player_rtl": true,
+        "start_time": "10:00",
+        "end_time": "12:00"
+      }
+    },
+    {
+      "id": "005",
+      "title": "אייטם אודיו לייב ",
+      "summary": "הרוח נושבת קרירה נוסיף עוד חרטוק למדורה",
+      "type": {
+        "value": "audio"
+      },
+      "content": {
+        "src": "https://kanapi.media.kan.org.il/Redirector/ipbc/direct/kan-gimmel/hls-live.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Radio5.png",
+              "key": "image_base"
+            },
+            {
+              "type": "image",
+              "src": "",
+              "key": "1:1"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "audio_player_artwork_aspect_ratio": "16:9",
+        "audio_player_background_image": "https://assets-production.applicaster.com/qa/zapp_qa/automation/images/jpg/image_4.jpg",
+        "audio_player_background_color": "",
+        "audio_player_channel_icon": "https://assets-production.applicaster.com/qa/zapp_qa/manual/amit/baseline_library_music_white_48dp.png",
+        "audio_player_title_color": "",
+        "audio_player_summary_color": "",
+        "audio_player_rtl": true,
+        "start_time": "10:00",
+        "end_time": "12:00"
+      }
+    },
+    {
+      "id": "006",
+      "title": "אודיו mp3",
+      "summary": "זהו טקסט בדיקה אדיר ונהדר המכיל טקסט לא מאוד ארוך אך גם לא מאוד קצר וזה נהדר !",
+      "type": {
+        "value": "audio"
+      },
+      "content": {
+        "src": "https://kanapi.media.kan.org.il/Redirector/ipbc/direct/kan-gimmel/hls-live.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Radio6.jpg",
+              "key": "image_base"
+            },
+            {
+              "type": "image",
+              "src": "",
+              "key": "1:1"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "audio_player_artwork_aspect_ratio": "16:9",
+        "audio_player_background_image": "https://assets-production.applicaster.com/qa/zapp_qa/automation/images/jpg/image_4.jpg",
+        "audio_player_background_color": "",
+        "audio_player_channel_icon": "https://assets-production.applicaster.com/qa/zapp_qa/manual/amit/baseline_library_music_white_48dp.png",
+        "audio_player_title_color": "",
+        "audio_player_summary_color": "",
+        "audio_player_rtl": true,
+        "start_time": "10:00",
+        "end_time": "12:00"
+      }
+    }
+  ]
+}
