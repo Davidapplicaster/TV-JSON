@@ -8,8 +8,8 @@
         "value": "video"
       },
       "id": "Id2",
-      "title": "video_feed_with_play_next",
-      "summary": "Video feed with play next item",
+      "title": "Play Next Demo,
+      "summary": "Next video in feed will play 12 seconds from end",
       "published": "2005-04-06T13:00:00-08:00",
       "updated": "2005-04-06T20:25:05-08:00",
       "media_group": [
@@ -19,7 +19,7 @@
             {
               "type": "image",
               "key": "image_base",
-              "src": "https://www.gstatic.com/webp/gallery3/5.png"
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/sonic.jpg"
             }
           ]
         }
