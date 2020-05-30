@@ -32,7 +32,6 @@
         "play_next_feed_url": "https://s3.amazonaws.com/assets-production.applicaster.com/qa/zapp_qa/manual/TV/videofeed.xml",
         "overlay_trigger_timestamp": 10
             }
-          ]
         }
       ],
   "author": {
