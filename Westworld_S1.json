@@ -29,6 +29,7 @@
         "free": true,
         "section": "March 15, 2017",
         "duration": 9863
+        "associated_feeds": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvV2VzdHdvcmxkRmVlZG9mRmVlZHMuanNvbg%3D%3D=="
       },
       "media_group": [
         {
