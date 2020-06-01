@@ -28,8 +28,10 @@
               "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/westworld.jpg"
             }
           ]
-        },
-     {
+        }
+      ]
+    },
+    {
       "type": {
         "value": "feed"
       },
@@ -55,7 +57,7 @@
             }  
           ]
         }
-      ],
+      ]
     }
   ],
   "author": {
