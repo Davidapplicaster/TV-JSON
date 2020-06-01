@@ -36,14 +36,14 @@
         "value": "feed"
       },
       "id": "QBS-FH001",
-      "title": "WESTERN · SCI-FI  ·  2020  ·  RATED 15",
-      "summary": "WESTERN · SCI-FI  ·  2020  ·  RATED 15",
+      "title": "ROMANCE · COMEDY  ·  2020  ·  RATED 12",
+      "summary": "ROMANCE · COMEDY  ·  2020  ·  RATED 12",
       "content": {
         "type": "feed",
         "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvV2VzdHdvcmxkSW50ZXJtZWRpYXRlLmpzb24%3D=="
       },
       "extensions": {
-        "section": "SCI-FI",
+        "section": "COMEDY",
         "genre": "DRAMA"
       },
       "media_group": [
@@ -53,7 +53,7 @@
             {
               "type": "image",
               "key": "image_base",
-              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/westworld.jpg"
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Modern%20Family.jpg"
             }  
           ]
         }
