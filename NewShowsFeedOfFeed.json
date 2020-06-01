@@ -30,6 +30,39 @@
           ]
         }
       ]
+    },
+    {
+  "type": {
+    "value": "feed"
+  },
+  "entry": [
+    {
+      "type": {
+        "value": "feed"
+      },
+      "id": "QBS-FH000",
+      "title": "WESTERN · SCI-FI  ·  2020  ·  RATED 15",
+      "summary": "WESTERN · SCI-FI  ·  2020  ·  RATED 15",
+      "content": {
+        "type": "feed",
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvV2VzdHdvcmxkSW50ZXJtZWRpYXRlLmpzb24%3D=="
+      },
+      "extensions": {
+        "section": "SCI-FI",
+        "genre": "DRAMA"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/westworld.jpg"
+            }  
+          ]
+        }
+      ]
     }
   ],
   "author": {
