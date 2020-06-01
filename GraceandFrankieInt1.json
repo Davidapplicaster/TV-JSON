@@ -1,0 +1,19 @@
+{
+  "type": {
+    "value": "feed"
+  },
+  "title": "Frankie & Grace S1",
+  "id": "008",
+  "entry": [
+    {
+      "title": "Frankie & Grace S1",
+      "type": {
+        "value": "feed"
+      },
+      "content": {
+        "type": "feed",
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9hc3NldHMtcHJvZHVjdGlvbi5hcHBsaWNhc3Rlci5jb20vcWEvemFwcF9xYS96YXBwX3Byb2R1Y3RzL21vYmlsZS9pbmxpbmVwbGF5ZXJmZWVkLmpzb24="
+      }
+    }
+  ]
+}
