@@ -12,7 +12,7 @@
       },
       "content": {
         "type": "feed",
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9hc3NldHMtcHJvZHVjdGlvbi5hcHBsaWNhc3Rlci5jb20vcWEvemFwcF9xYS96YXBwX3Byb2R1Y3RzL21vYmlsZS9pbmxpbmVwbGF5ZXJmZWVkNi5qc29uCg=="
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvR3JhY2VhbmRGcmFua2llRXBpc29kZXMuanNvbg%3D%3D="
       }
     }
   ]
