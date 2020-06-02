@@ -25,7 +25,7 @@
           "media_item": [
             {
               "key": "image_base",
-              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Action.png",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Action.jpg",
               "type": "extern_image"
             }
           ]
@@ -57,7 +57,7 @@
           "media_item": [
             {
               "key": "image_base",
-              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Comedy.png",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Comedy.jpg",
               "type": "extern_image"
             }
           ]
@@ -89,7 +89,7 @@
           "media_item": [
             {
               "key": "image_base",
-              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Drama.png",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Drama.jpg",
               "type": "extern_image"
             }
           ]
@@ -121,7 +121,7 @@
           "media_item": [
             {
               "key": "image_base",
-              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Factual.png",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Factual.jpg",
               "type": "extern_image"
             }
           ]
@@ -153,7 +153,7 @@
           "media_item": [
             {
               "key": "image_base",
-              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Kids.png",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Kids.jpg",
               "type": "extern_image"
             }
           ]
@@ -185,7 +185,7 @@
           "media_item": [
             {
               "key": "image_base",
-              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/sci-fi.png",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/sci-fi.jpg",
               "type": "extern_image"
             }
           ]
@@ -217,7 +217,7 @@
           "media_item": [
             {
               "key": "image_base",
-              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Sport.png",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Sport.jpg",
               "type": "extern_image"
             }
           ]
@@ -249,7 +249,7 @@
           "media_item": [
             {
               "key": "image_base",
-              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Thriller.png",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Thriller.jpg",
               "type": "extern_image"
             }
           ]
