@@ -1,0 +1,268 @@
+{
+  "title": "Grace and Frankie",
+  "link": {
+    "rel": "alternate",
+    "type": "text/html",
+    "href": "http://video.brides.com"
+  },
+  "subtitle": "",
+  "entry": [
+    {
+      "type": {
+        "value": "video"
+      },
+      "title": "Grace & Frankie S1",
+      "summary": "For as long as they can recall, Grace and Frankie have been rivals. Their one-upmanship comes crashing to a halt, however, when they learn that their husbands have fallen in love with each other and want to get married. As everything around the ladies is coming apart, the only thing they can really rely on is each other. ",
+      "id": "001",
+      "published": "20180508T12:00+00:00",
+      "content": {
+        "type": "video/hls",
+        "src": "https://assets-production.applicaster.com/qa/zapp_qa/zapp_products/videos/Grace%20and%20Frankie%20/grace_and_frankie_s1_trailer.mp4"
+      },
+      "media_group": [
+        {
+          "type": "thumbnail",
+          "media_item": [
+            {
+              "src": "https://assets-production.applicaster.com/qa/zapp_qa/zapp_products/videos/Grace%20and%20Frankie%20/grace_and_frankie_s1_thumbnail.jpg",
+              "scale": "small",
+              "type": "thumbnail",
+              "key": "thumbnail-small"
+            },
+            {
+              "src": "https://assets-production.applicaster.com/qa/zapp_qa/zapp_products/videos/Grace%20and%20Frankie%20/grace_and_frankie_s1_thumbnail.jpg",
+              "scale": "large",
+              "type": "thumbnail",
+              "key": "thumbnail-large"
+            }
+          ]
+        }
+      ],
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "http://www.hd-trailers.net/movie/mad-max-fury-road/#d9i78rUtxHJ7z3kK.99"
+      },
+      "extensions": {
+        "free": "true",
+        "is_downloadable": true,
+        "cell description": "For as long as they can recall, Grace and Frankie have been rivals. Their one-upmanship comes crashing to a halt, however, when they learn that their husbands have fallen in love with each other and want to get married. As everything around the ladies is coming apart, the only thing they can really rely on is each other. ",
+        "associated_feeds": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvR3JhY2VhbmRGcmFua2llSW50MS5qc29u=="
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "title": "Grace & Frankie S2",
+      "summary": "In season two, as Grace and Frankie get further and further away from their divorces, they're able to see how much their exes love and care about each other, which helps them realize that remaining in their repressed marriages was hurting them as well.",
+      "id": "002",
+      "published": "20181018T12:00+00:00",
+      "content": {
+        "type": "video/hls",
+        "src": "https://assets-production.applicaster.com/qa/zapp_qa/zapp_products/videos/Grace%20and%20Frankie%20/grace_and_frankie_s2_trailer.mp4"
+      },
+      "media_group": [
+        {
+          "type": "thumbnail",
+          "media_item": [
+            {
+              "src": "https://assets-production.applicaster.com/qa/zapp_qa/zapp_products/videos/Grace%20and%20Frankie%20/grace_and_frankie_s2_thumbnail.jpg",
+              "scale": "small",
+              "type": "thumbnail",
+              "key": "thumbnail-small"
+            },
+            {
+              "src": "https://assets-production.applicaster.com/qa/zapp_qa/zapp_products/videos/Grace%20and%20Frankie%20/grace_and_frankie_s2_thumbnail.jpg",
+              "scale": "large",
+              "type": "thumbnail",
+              "key": "thumbnail-large"
+            }
+          ]
+        }
+      ],
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "http://www.hd-trailers.net/movie/avengers-age-of-ultron/#pYMgFG571vKzKuxB.99"
+      },
+      "extensions": {
+        "free": "true",
+        "is_downloadable": true,
+        "cell description": "In season two, as Grace and Frankie get further and further away from their divorces, they're able to see how much their exes love and care about each other, which helps them realize that remaining in their repressed marriages was hurting them as well.",
+        "associated_feeds": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvR3JhY2VhbmRGcmFua2llSW50Mi5qc29u=="
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "title": "Grace & Frankie S3",
+      "summary": "As Grace and Frankie try to get their new business off the ground, they continue to deal with family issues and rifts in their friendship",
+      "id": "003",
+      "published": "20181018T12:00+00:00",
+      "content": {
+        "type": "video/hls",
+        "src": "https://assets-production.applicaster.com/qa/zapp_qa/zapp_products/videos/Grace%20and%20Frankie%20/grace_and_frankie_s3_trailer.mp4"
+      },
+      "media_group": [
+        {
+          "type": "thumbnail",
+          "media_item": [
+            {
+              "src": "https://assets-production.applicaster.com/qa/zapp_qa/zapp_products/videos/Grace%20and%20Frankie%20/grace_and_frankie_s3_thumbnail.jpg",
+              "scale": "small",
+              "type": "thumbnail",
+              "key": "thumbnail-small"
+            },
+            {
+              "src": "https://assets-production.applicaster.com/qa/zapp_qa/zapp_products/videos/Grace%20and%20Frankie%20/grace_and_frankie_s3_thumbnail.jpg",
+              "scale": "large",
+              "type": "thumbnail",
+              "key": "thumbnail-large"
+            }
+          ]
+        }
+      ],
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "http://www.hd-trailers.net/movie/avengers-age-of-ultron/#pYMgFG571vKzKuxB.99"
+      },
+      "extensions": {
+        "free": "true",
+        "cell description": "As Grace and Frankie try to get their new business off the ground, they continue to deal with family issues and rifts in their friendship",
+        "associated_feeds": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvR3JhY2VhbmRGcmFua2llSW50My5qc29u=="
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "title": "Grace & Frankie S4",
+      "summary": "Frankie returns from Santa Fe to find Grace lodging with manicurist Sheree (Lisa Kudrow). She feels left out by Grace having a new roommate and behaves badly. Sol is upset when Robert wants to stop attending rallies for gay rights with him, due to feeling his age.",
+      "id": "004",
+      "published": "20181018T12:00+00:00",
+      "content": {
+        "type": "video/hls",
+        "src": "https://assets-production.applicaster.com/qa/zapp_qa/zapp_products/videos/Grace%20and%20Frankie%20/grace_and_frankie_s4_trailer.mp4"
+      },
+      "media_group": [
+        {
+          "type": "thumbnail",
+          "media_item": [
+            {
+              "src": "https://assets-production.applicaster.com/qa/zapp_qa/zapp_products/videos/Grace%20and%20Frankie%20/grace_and_frankie_s4_thumbnail.jpg",
+              "scale": "small",
+              "type": "thumbnail",
+              "key": "thumbnail-small"
+            },
+            {
+              "src": "https://assets-production.applicaster.com/qa/zapp_qa/zapp_products/videos/Grace%20and%20Frankie%20/grace_and_frankie_s4_thumbnail.jpg",
+              "scale": "large",
+              "type": "thumbnail",
+              "key": "thumbnail-large"
+            }
+          ]
+        }
+      ],
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "http://www.hd-trailers.net/movie/avengers-age-of-ultron/#pYMgFG571vKzKuxB.99"
+      },
+      "extensions": {
+        "free": "true",
+        "cell description": "Frankie returns from Santa Fe to find Grace lodging with manicurist Sheree (Lisa Kudrow). She feels left out by Grace having a new roommate and behaves badly. Sol is upset when Robert wants to stop attending rallies for gay rights with him, due to feeling his age.",
+        "associated_feeds": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvR3JhY2VhbmRGcmFua2llSW50NC5qc29u=="
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "title": "Grace & Frankie S5",
+      "summary": "At the start of Season 5, Grace and Frankie had just escaped from an assisted living facility, only to discover their children have sold their beach house out from under them. They squat in the house until new owner, pop star Kareena G (Nicole Richie), turns up.",
+      "id": "005",
+      "published": "20181018T12:00+00:00",
+      "content": {
+        "type": "video/hls",
+        "src": "https://assets-production.applicaster.com/qa/zapp_qa/zapp_products/videos/Grace%20and%20Frankie%20/grace_and_frankie_s5_trailer.mp4"
+      },
+      "media_group": [
+        {
+          "type": "thumbnail",
+          "media_item": [
+            {
+              "src": "https://assets-production.applicaster.com/qa/zapp_qa/zapp_products/videos/Grace%20and%20Frankie%20/grace_and_frankie_s5_thumbnail.jpg",
+              "scale": "small",
+              "type": "thumbnail",
+              "key": "thumbnail-small"
+            },
+            {
+              "src": "https://assets-production.applicaster.com/qa/zapp_qa/zapp_products/videos/Grace%20and%20Frankie%20/grace_and_frankie_s5_thumbnail.jpg",
+              "scale": "large",
+              "type": "thumbnail",
+              "key": "thumbnail-large"
+            }
+          ]
+        }
+      ],
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "http://www.hd-trailers.net/movie/avengers-age-of-ultron/#pYMgFG571vKzKuxB.99"
+      },
+      "extensions": {
+        "free": "true",
+        "cell description": "At the start of Season 5, Grace and Frankie had just escaped from an assisted living facility, only to discover their children have sold their beach house out from under them. They squat in the house until new owner, pop star Kareena G (Nicole Richie), turns up.",
+        "associated_feeds": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvR3JhY2VhbmRGcmFua2llSW50NS5qc29u=="
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "title": "Grace & Frankie S6",
+      "summary": "At the very end of S5, Grace and Nick jetted off to Las Vegas to get married, and at the top of S6, Frankie wasn't taking it well. ... They call it the Rise Up, and the season is about them trying to raise money to sponsor the invention.",
+      "id": "006",
+      "published": "20181018T12:00+00:00",
+      "content": {
+        "type": "video/hls",
+        "src": "https://assets-production.applicaster.com/qa/zapp_qa/zapp_products/videos/Grace%20and%20Frankie%20/grace_and_frankie_s6_trailer.mp4"
+      },
+      "media_group": [
+        {
+          "type": "thumbnail",
+          "media_item": [
+            {
+              "src": "https://assets-production.applicaster.com/qa/zapp_qa/zapp_products/videos/Grace%20and%20Frankie%20/grace_and_frankie_s6_thumbnail.jpg",
+              "scale": "small",
+              "type": "thumbnail",
+              "key": "thumbnail-small"
+            },
+            {
+              "src": "https://assets-production.applicaster.com/qa/zapp_qa/zapp_products/videos/Grace%20and%20Frankie%20/grace_and_frankie_s6_thumbnail.jpg",
+              "scale": "large",
+              "type": "thumbnail",
+              "key": "thumbnail-large"
+            }
+          ]
+        }
+      ],
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "http://www.hd-trailers.net/movie/avengers-age-of-ultron/#pYMgFG571vKzKuxB.99"
+      },
+      "extensions": {
+        "free": "true",
+        "cell description": "At the very end of S5, Grace and Nick jetted off to Las Vegas to get married, and at the top of S6, Frankie wasn't taking it well. ... They call it the Rise Up, and the season is about them trying to raise money to sponsor the invention.",
+        "associated_feeds": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvR3JhY2VhbmRGcmFua2llSW50Ni5qc29u=="
+      }
+    }
+  ],
+  "type": {
+    "value": "feed"
+  }
+}
