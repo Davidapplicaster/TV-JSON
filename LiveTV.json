@@ -6,7 +6,7 @@
     {
       "id": "001",
       "title": "BBC1",
-      "summary": "Live Programs",
+      "summary": "Program Listings",
       "type": {
         "value": "video"
       },
@@ -40,9 +40,9 @@
     {
       "id": "002",
       "title": "BBC2 ",
-      "summary": "Live Programs",
+      "summary": "Program Listings",
       "type": {
-        "value": "audio"
+        "value": "video"
       },
       "content": {
         "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
@@ -74,7 +74,7 @@
     {
       "id": "003",
       "title": "ITV1",
-      "summary": "Live Programs",
+      "summary": "Program Listings",
       "type": {
         "value": "video"
       },
@@ -108,7 +108,7 @@
     {
       "id": "004",
       "title": "CH4",
-      "summary": "Live Programs",
+      "summary": "Program Listings",
       "type": {
         "value": "video"
       },
@@ -142,7 +142,7 @@
     {
       "id": "005",
       "title": "5",
-      "summary": "Live Programs",
+      "summary": "Program Listings",
       "type": {
         "value": "video"
       },
@@ -176,7 +176,7 @@
     {
       "id": "006",
       "title": "Discovery",
-      "summary": "Live programs",
+      "summary": "Program Listings",
       "type": {
         "value": "video"
       },
@@ -207,5 +207,11 @@
         "end_time": "12:00"
       }
     }
-  ]
+  ],
+  "author": {
+    "name": "Applicaster"
+  },
+  "id": "CH-001",
+  "title": "Channel Listings",
+  "description": ""
 }
