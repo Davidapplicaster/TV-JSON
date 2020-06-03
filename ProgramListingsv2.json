@@ -97,26 +97,26 @@
       "type": {
         "value": "video"
       },
-      "title": "Grace & Frankie S3",
-      "summary": "As Grace and Frankie try to get their new business off the ground, they continue to deal with family issues and rifts in their friendship",
+      "title": "Father Brown",
+      "summary": "Drama series based on the novels of GK Chesterton. Father Brown deduces that the apparent suicide of a recently returned RAF pilot was actually murder",
       "id": "003",
       "published": "20181018T12:00+00:00",
       "content": {
         "type": "video/hls",
-        "src": "https://assets-production.applicaster.com/qa/zapp_qa/zapp_products/videos/Grace%20and%20Frankie%20/grace_and_frankie_s3_trailer.mp4"
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
       },
       "media_group": [
         {
           "type": "thumbnail",
           "media_item": [
             {
-              "src": "https://assets-production.applicaster.com/qa/zapp_qa/zapp_products/videos/Grace%20and%20Frankie%20/grace_and_frankie_s3_thumbnail.jpg",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/FatherBrown.jpg",
               "scale": "small",
               "type": "thumbnail",
               "key": "thumbnail-small"
             },
             {
-              "src": "https://assets-production.applicaster.com/qa/zapp_qa/zapp_products/videos/Grace%20and%20Frankie%20/grace_and_frankie_s3_thumbnail.jpg",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/FatherBrown.jpg",
               "scale": "large",
               "type": "thumbnail",
               "key": "thumbnail-large"
@@ -131,7 +131,7 @@
       },
       "extensions": {
         "free": "true",
-        "cell description": "As Grace and Frankie try to get their new business off the ground, they continue to deal with family issues and rifts in their friendship",
+        "cell description": "Drama series based on the novels of GK Chesterton. Father Brown deduces that the apparent suicide of a recently returned RAF pilot was actually murder",
         "associated_feeds": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvR3JhY2VhbmRGcmFua2llSW50My5qc29u=="
       }
     },
