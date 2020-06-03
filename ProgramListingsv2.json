@@ -139,26 +139,26 @@
       "type": {
         "value": "video"
       },
-      "title": "Grace & Frankie S4",
-      "summary": "Frankie returns from Santa Fe to find Grace lodging with manicurist Sheree (Lisa Kudrow). She feels left out by Grace having a new roommate and behaves badly. Sol is upset when Robert wants to stop attending rallies for gay rights with him, due to feeling his age.",
+      "title": "Doctors",
+      "summary": "As Ayesha makes a decision on her future, Bear sees a side of her that shocks him. Harper makes Daniel feel redundant, and helping a teenage cheerleader with an unusual family prompts Al to make a decision about his mum.",
       "id": "004",
       "published": "20181018T12:00+00:00",
       "content": {
         "type": "video/hls",
-        "src": "https://assets-production.applicaster.com/qa/zapp_qa/zapp_products/videos/Grace%20and%20Frankie%20/grace_and_frankie_s4_trailer.mp4"
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
       },
       "media_group": [
         {
           "type": "thumbnail",
           "media_item": [
             {
-              "src": "https://assets-production.applicaster.com/qa/zapp_qa/zapp_products/videos/Grace%20and%20Frankie%20/grace_and_frankie_s4_thumbnail.jpg",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Doctors.jpg",
               "scale": "small",
               "type": "thumbnail",
               "key": "thumbnail-small"
             },
             {
-              "src": "https://assets-production.applicaster.com/qa/zapp_qa/zapp_products/videos/Grace%20and%20Frankie%20/grace_and_frankie_s4_thumbnail.jpg",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Doctors.jpg",
               "scale": "large",
               "type": "thumbnail",
               "key": "thumbnail-large"
@@ -173,7 +173,7 @@
       },
       "extensions": {
         "free": "true",
-        "cell description": "Frankie returns from Santa Fe to find Grace lodging with manicurist Sheree (Lisa Kudrow). She feels left out by Grace having a new roommate and behaves badly. Sol is upset when Robert wants to stop attending rallies for gay rights with him, due to feeling his age.",
+        "cell description": "As Ayesha makes a decision on her future, Bear sees a side of her that shocks him. Harper makes Daniel feel redundant, and helping a teenage cheerleader with an unusual family prompts Al to make a decision about his mum.",
         "associated_feeds": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvR3JhY2VhbmRGcmFua2llSW50NC5qc29u=="
       }
     },
