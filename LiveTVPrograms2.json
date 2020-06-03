@@ -26,6 +26,7 @@
         }
       ],
       "extensions": {
+        "section": "BBC1 On Now",
         "audio_player_artwork_aspect_ratio": "16:9",
         "audio_player_background_image": "https://assets-production.applicaster.com/qa/zapp_qa/automation/images/jpg/image_4.jpg",
         "audio_player_background_color": "#29ABE2",
@@ -42,7 +43,7 @@
       "title": "Spring Watch",
       "summary": "Chris Packham, Gillian Burke, Iolo Williams and Gordon Buchanan share more seasonal stories from Spring 2020",
       "type": {
-        "value": "audio"
+        "value": "video"
       },
       "content": {
         "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
