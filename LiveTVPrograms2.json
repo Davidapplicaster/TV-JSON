@@ -61,6 +61,7 @@
         }
       ],
       "extensions": {
+        "section": "BBC2 On Now",
         "audio_player_artwork_aspect_ratio": "16:9",
         "audio_player_background_image": "https://assets-production.applicaster.com/qa/zapp_qa/automation/images/jpg/image_4.jpg",
         "audio_player_background_color": "#29fbe2",
@@ -95,6 +96,7 @@
         }
       ],
       "extensions": {
+        "section": "ITV1 On Now",
         "audio_player_artwork_aspect_ratio": "16:9",
         "audio_player_background_image": "https://assets-production.applicaster.com/qa/zapp_qa/automation/images/jpg/image_4.jpg",
         "audio_player_background_color": "#c9fbe2",
@@ -129,6 +131,7 @@
         }
       ],
       "extensions": {
+        "section": "ITV2 On Now",
         "audio_player_artwork_aspect_ratio": "16:9",
         "audio_player_background_image": "https://assets-production.applicaster.com/qa/zapp_qa/automation/images/jpg/image_4.jpg",
         "audio_player_background_color": "#29abe2",
@@ -163,6 +166,7 @@
         }
       ],
       "extensions": {
+        "section": "CH5 On Now",
         "audio_player_artwork_aspect_ratio": "16:9",
         "audio_player_background_image": "https://assets-production.applicaster.com/qa/zapp_qa/automation/images/jpg/image_4.jpg",
         "audio_player_background_color": "#c9fbe2",
@@ -197,6 +201,7 @@
         }
       ],
       "extensions": {
+        "section": "Discovery Channel On Now",
         "audio_player_artwork_aspect_ratio": "16:9",
         "audio_player_background_image": "https://assets-production.applicaster.com/qa/zapp_qa/automation/images/jpg/image_4.jpg",
         "audio_player_background_color": "#c9fbe2",
