@@ -1,0 +1,211 @@
+
+  "type": {
+    "value": "feed"
+  },
+  "entry": [
+    {
+      "id": "001",
+      "title": "BBC1",
+      "summary": "Live Programs",
+      "type": {
+        "value": "video"
+      },
+      "content": {
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/BBC1.jpg",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "audio_player_artwork_aspect_ratio": "16:9",
+        "audio_player_background_image": "https://assets-production.applicaster.com/qa/zapp_qa/automation/images/jpg/image_4.jpg",
+        "audio_player_background_color": "#29ABE2",
+        "audio_player_channel_icon": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/baseline_library_music_white_48dp.png",
+        "audio_player_title_color": "#444444",
+        "audio_player_summary_color": "#444444",
+        "audio_player_rtl": false,
+        "start_time": "10:30",
+        "end_time": "12:00"
+      }
+    },
+    {
+      "id": "002",
+      "title": "BBC2 ",
+      "summary": "Live Programs",
+      "type": {
+        "value": "audio"
+      },
+      "content": {
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/BBC1.jpg",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "audio_player_artwork_aspect_ratio": "16:9",
+        "audio_player_background_image": "https://assets-production.applicaster.com/qa/zapp_qa/automation/images/jpg/image_4.jpg",
+        "audio_player_background_color": "#29fbe2",
+        "audio_player_channel_icon": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/baseline_library_music_white_48dp.png",
+        "audio_player_title_color": "#444444",
+        "audio_player_summary_color": "#444444",
+        "audio_player_rtl": false,
+        "start_time": "10:00",
+        "end_time": "12:00"
+      }
+    },
+    {
+      "id": "003",
+      "title": "ITV1",
+      "summary": "Live Programs",
+      "type": {
+        "value": "video"
+      },
+      "content": {
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/ITV1.jpg",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "audio_player_artwork_aspect_ratio": "16:9",
+        "audio_player_background_image": "https://assets-production.applicaster.com/qa/zapp_qa/automation/images/jpg/image_4.jpg",
+        "audio_player_background_color": "#c9fbe2",
+        "audio_player_channel_icon": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/baseline_library_music_white_48dp.png",
+        "audio_player_title_color": "#444444",
+        "audio_player_summary_color": "#444444",
+        "audio_player_rtl": false,
+        "start_time": "10:00",
+        "end_time": "12:00"
+      }
+    },
+    {
+      "id": "004",
+      "title": "CH4",
+      "summary": "Live Programs",
+      "type": {
+        "value": "video"
+      },
+      "content": {
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/ITV2.jpg",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "audio_player_artwork_aspect_ratio": "16:9",
+        "audio_player_background_image": "https://assets-production.applicaster.com/qa/zapp_qa/automation/images/jpg/image_4.jpg",
+        "audio_player_background_color": "#29abe2",
+        "audio_player_channel_icon": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/baseline_library_music_white_48dp.png",
+        "audio_player_title_color": "#444444",
+        "audio_player_summary_color": "#444444",
+        "audio_player_rtl": false,
+        "start_time": "10:00",
+        "end_time": "12:00"
+      }
+    },
+    {
+      "id": "005",
+      "title": "5",
+      "summary": "Live Programs",
+      "type": {
+        "value": "video"
+      },
+      "content": {
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/CH5.jpg",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "audio_player_artwork_aspect_ratio": "16:9",
+        "audio_player_background_image": "https://assets-production.applicaster.com/qa/zapp_qa/automation/images/jpg/image_4.jpg",
+        "audio_player_background_color": "#c9fbe2",
+        "audio_player_channel_icon": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/baseline_library_music_white_48dp.png",
+        "audio_player_title_color": "#444444",
+        "audio_player_summary_color": "#444444",
+        "audio_player_rtl": false,
+        "start_time": "10:00",
+        "end_time": "12:00"
+      }
+    },
+    {
+      "id": "006",
+      "title": "Discovery",
+      "summary": "Live programs",
+      "type": {
+        "value": "video"
+      },
+      "content": {
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Discovery.jpg",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "audio_player_artwork_aspect_ratio": "16:9",
+        "audio_player_background_image": "https://assets-production.applicaster.com/qa/zapp_qa/automation/images/jpg/image_4.jpg",
+        "audio_player_background_color": "#c9fbe2",
+        "audio_player_channel_icon": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/baseline_library_music_white_48dp.png",
+        "audio_player_title_color": "#444444",
+        "audio_player_summary_color": "#444444",
+        "audio_player_rtl": false,
+        "start_time": "10:00",
+        "end_time": "12:00"
+      }
+    }
+  ]
+}
