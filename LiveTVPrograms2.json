@@ -26,7 +26,7 @@
         }
       ],
       "extensions": {
-        "section": "BBC1 On Now",
+        "section": "BBC1",
         "audio_player_artwork_aspect_ratio": "16:9",
         "audio_player_background_image": "https://assets-production.applicaster.com/qa/zapp_qa/automation/images/jpg/image_4.jpg",
         "audio_player_background_color": "#29ABE2",
@@ -61,7 +61,7 @@
         }
       ],
       "extensions": {
-        "section": "BBC2 On Now",
+        "section": "BBC2",
         "audio_player_artwork_aspect_ratio": "16:9",
         "audio_player_background_image": "https://assets-production.applicaster.com/qa/zapp_qa/automation/images/jpg/image_4.jpg",
         "audio_player_background_color": "#29fbe2",
@@ -96,7 +96,7 @@
         }
       ],
       "extensions": {
-        "section": "ITV1 On Now",
+        "section": "ITV1",
         "audio_player_artwork_aspect_ratio": "16:9",
         "audio_player_background_image": "https://assets-production.applicaster.com/qa/zapp_qa/automation/images/jpg/image_4.jpg",
         "audio_player_background_color": "#c9fbe2",
@@ -131,7 +131,7 @@
         }
       ],
       "extensions": {
-        "section": "ITV2 On Now",
+        "section": "ITV2",
         "audio_player_artwork_aspect_ratio": "16:9",
         "audio_player_background_image": "https://assets-production.applicaster.com/qa/zapp_qa/automation/images/jpg/image_4.jpg",
         "audio_player_background_color": "#29abe2",
@@ -166,7 +166,7 @@
         }
       ],
       "extensions": {
-        "section": "CH5 On Now",
+        "section": "CH5",
         "audio_player_artwork_aspect_ratio": "16:9",
         "audio_player_background_image": "https://assets-production.applicaster.com/qa/zapp_qa/automation/images/jpg/image_4.jpg",
         "audio_player_background_color": "#c9fbe2",
@@ -201,7 +201,7 @@
         }
       ],
       "extensions": {
-        "section": "Discovery Channel On Now",
+        "section": "Discovery Channel",
         "audio_player_artwork_aspect_ratio": "16:9",
         "audio_player_background_image": "https://assets-production.applicaster.com/qa/zapp_qa/automation/images/jpg/image_4.jpg",
         "audio_player_background_color": "#c9fbe2",
