@@ -181,26 +181,26 @@
       "type": {
         "value": "video"
       },
-      "title": "Grace & Frankie S5",
-      "summary": "At the start of Season 5, Grace and Frankie had just escaped from an assisted living facility, only to discover their children have sold their beach house out from under them. They squat in the house until new owner, pop star Kareena G (Nicole Richie), turns up.",
+      "title": "Bargain Hunt",
+      "summary": "The Elsecar Heritage Centre plays host to today's programme. Presenter Anita Manning leads proceedings whilst experts Tim Weeks and Caroline Hawley help the teams find the bargains that will hopefully make them a profit at auction",
       "id": "005",
       "published": "20181018T12:00+00:00",
       "content": {
         "type": "video/hls",
-        "src": "https://assets-production.applicaster.com/qa/zapp_qa/zapp_products/videos/Grace%20and%20Frankie%20/grace_and_frankie_s5_trailer.mp4"
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
       },
       "media_group": [
         {
           "type": "thumbnail",
           "media_item": [
             {
-              "src": "https://assets-production.applicaster.com/qa/zapp_qa/zapp_products/videos/Grace%20and%20Frankie%20/grace_and_frankie_s5_thumbnail.jpg",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Bargain.jpg",
               "scale": "small",
               "type": "thumbnail",
               "key": "thumbnail-small"
             },
             {
-              "src": "https://assets-production.applicaster.com/qa/zapp_qa/zapp_products/videos/Grace%20and%20Frankie%20/grace_and_frankie_s5_thumbnail.jpg",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Bargain.jpg",
               "scale": "large",
               "type": "thumbnail",
               "key": "thumbnail-large"
@@ -215,7 +215,7 @@
       },
       "extensions": {
         "free": "true",
-        "cell description": "At the start of Season 5, Grace and Frankie had just escaped from an assisted living facility, only to discover their children have sold their beach house out from under them. They squat in the house until new owner, pop star Kareena G (Nicole Richie), turns up.",
+        "cell description": "The Elsecar Heritage Centre plays host to today's programme. Presenter Anita Manning leads proceedings whilst experts Tim Weeks and Caroline Hawley help the teams find the bargains that will hopefully make them a profit at auction",
         "associated_feeds": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvR3JhY2VhbmRGcmFua2llSW50NS5qc29u=="
       }
     },
