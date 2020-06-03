@@ -8,7 +8,7 @@
       "title": "BBC1",
       "summary": "Program Listings",
       "type": {
-        "value": "video"
+        "value": "feed"
       },
       "content": {
         "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvR3JhY2VhbmRGcmFua2llSW50MS5qc29u=="
