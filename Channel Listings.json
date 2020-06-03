@@ -21,7 +21,7 @@
           "type": "thumbnail",
           "media_item": [
             {
-              "src": ""https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/BBC1.jpg",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/BBC1.jpg",
               "scale": "small",
               "type": "thumbnail",
               "key": "thumbnail-small"
