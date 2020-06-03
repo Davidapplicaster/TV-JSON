@@ -213,5 +213,11 @@
         "end_time": "12:00"
       }
     }
-  ]
+  ],
+  "author": {
+    "name": "Applicaster"
+  },
+  "id": "LVE-001",
+  "title": "On Now",
+  "description": ""
 }
