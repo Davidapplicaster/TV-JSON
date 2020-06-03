@@ -1,0 +1,171 @@
+{
+  "type": {
+    "value": "feed"
+  },
+  "entry": [
+    {
+      "id": "001",
+      "title": "The One Show",
+      "summary": "Alex Jones hosts the magazine show, with stories of interest from around the UK, plus celebrity guests in the studio",
+      "type": {
+        "value": "video"
+      },
+      "content": {
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/The%20One%20Show.jpg",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "audio_player_artwork_aspect_ratio": "16:9",
+        "audio_player_background_image": "https://assets-production.applicaster.com/qa/zapp_qa/automation/images/jpg/image_4.jpg",
+        "audio_player_background_color": "#29ABE2",
+        "audio_player_channel_icon": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/baseline_library_music_white_48dp.png",
+        "audio_player_title_color": "#444444",
+        "audio_player_summary_color": "#444444",
+        "audio_player_rtl": false,
+        "start_time": "10:30",
+        "end_time": "12:00"
+      }
+    },
+    {
+      "id": "002",
+      "title": "Spring Watch",
+      "summary": "Chris Packham, Gillian Burke, Iolo Williams and Gordon Buchanan share more seasonal stories from Spring 2020",
+      "type": {
+        "value": "video"
+      },
+      "content": {
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Spring%20Watch.jpg",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "section": "BBC2",
+      }
+    },
+    {
+      "id": "003",
+      "title": "Emmerdale",
+      "summary": "Jamie is left panicked when Andrea and Millie disappear, while Nate approaches Rhona with a proposition",
+      "type": {
+        "value": "video"
+      },
+      "content": {
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Emmerdale.jpg",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "section": "ITV1",
+      }
+    },
+    {
+      "id": "004",
+      "title": "Morse",
+      "summary": "The Remorseful Day: An ailing Morse involves himself in a year old cold murder case of a nymphomaniac",
+      "type": {
+        "value": "video"
+      },
+      "content": {
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Morse.jpg",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "section": "ITV2",
+      }
+    },
+    {
+      "id": "005",
+      "title": "Chris Tarrant: Extreme Railway Journeys",
+      "summary": "Chris travels 1,500 miles in a journey from Cape Town in South Africa to the Victoria Falls in Zimbabwe",
+      "type": {
+        "value": "video"
+      },
+      "content": {
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Railways.jpg",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "section": "CH5",
+      }
+    },
+    {
+      "id": "006",
+      "title": "Outback Truckers",
+      "summary": "LIn the Australian Outback when the going gets tough the tough drive trucks.",
+      "type": {
+        "value": "video"
+      },
+      "content": {
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Truckers.jpg",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "section": "Discovery",
+      }
+    }
+  ]
+}
