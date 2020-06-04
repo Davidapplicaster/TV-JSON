@@ -11,7 +11,7 @@
         "value": "feed"
       },
       "id": "001",
-      "title": "BBC1",
+      "title": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/BBC1.jpg",
       "content": {
         "type": "feed",
         "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3RpbmdzSW50Lmpzb24%3D=="
