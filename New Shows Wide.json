@@ -107,7 +107,7 @@
       "title": "Killing Eve",
       "summary": "",
       "content": {
-        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8",
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
         "type": "video/hls"
       },
       "media_group": [
