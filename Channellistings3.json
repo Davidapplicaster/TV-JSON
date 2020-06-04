@@ -47,7 +47,7 @@
         "free": "true",
         "is_downloadable": true,
         "cell description": "A birthday cake sets a house on fire, a toddler puts an iPad in a washing machine and a cow breaks into a home to use the swimming pool.",
-        "associated_feeds": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3RpbmdzSW50Lmpzb24%3D=="
+        "associated_feeds": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbGxpc3RpbmdzaW50My5qc29u=="
       }
     },
     {
@@ -90,7 +90,7 @@
         "free": "true",
         "is_downloadable": true,
         "cell description": "Warwick Davis presents the Top 10-themed quiz show. A family team from Cornwall answer Top 10 list questions as they aim to walk away with a big cash prize.",
-        "associated_feeds": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3RpbmdzSW50Lmpzb24%3D=="
+        "associated_feeds": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbGxpc3RpbmdzaW50My5qc29u=="
       }
     },
     {
@@ -132,7 +132,7 @@
       "extensions": {
         "free": "true",
         "cell description": "Ben Shephard hosts the quiz show in which four players take on an extraordinary machine in the hope of winning the 10,000 pound jackpot.",
-        "associated_feeds": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3RpbmdzSW50Lmpzb24%3D=="
+        "associated_feeds": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbGxpc3RpbmdzaW50My5qc29u=="
       }
     },
     {
@@ -173,8 +173,8 @@
       },
       "extensions": {
         "free": "true",
-        "cell description": "In the fifth episode from the legendary Hammersmith Apollo, the fabulously funny Canadian comedy star Katherine Ryan is the host, introducing German comic and 8 Out of 10 Cats Does Countdown regular Henning Wehn and the brilliantly funny James Acaster.",
-        "associated_feeds": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3RpbmdzSW50Lmpzb24%3D=="
+        "cell description": "Quiz show hosted by Bradley Walsh. Becca, Don, Janet and Ronnie try to beat one of the country's finest quiz brains and take home thousands of pounds.",
+        "associated_feeds": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbGxpc3RpbmdzaW50My5qc29u=="
       }
     },
     {
@@ -216,7 +216,7 @@
       "extensions": {
         "free": "true",
         "cell description": "Johnny is in court to claim for non payment of wages after he was booked to perform at a charity event. Daniellla is in court to claim for the amount owed on a credit card which she says her ex partner used.",
-        "associated_feeds": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3RpbmdzSW50Lmpzb24%3D=="
+        "associated_feeds": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbGxpc3RpbmdzaW50My5qc29u=="
       }
     },
     {
@@ -258,7 +258,7 @@
       "extensions": {
         "free": "true",
         "cell description": "Join the Loose Women panellists as they interview celebrity guests and discuss the day's most topical issues, from current affairs to celebrity gossip and the latest showbiz news.",
-        "associated_feeds": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3RpbmdzSW50Lmpzb24%3D=="
+        "associated_feeds": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbGxpc3RpbmdzaW50My5qc29u=="
       }
     }
   ],
