@@ -1,7 +1,7 @@
 {
 "type": {
   "value": "feed"
-}
+},
   "title": "Today",
   "link": {
     "rel": "alternate",
