@@ -3,12 +3,13 @@
     "value": "feed"
   },
   "title": "EPG",
+  "subtitle": "BBC1",
+  "id": "EPG1",
   "link": {
     "rel": "alternate",
     "type": "text/html",
     "href": "http://video.brides.com"
   },
-  "subtitle": "BBC1",
   "entry": [
     {
       "type": {
@@ -257,6 +258,7 @@
       "value": "feed"
     },
   "title": "Tommorrow",
+  "id": "EPG1",
   "subtitle": "BBC2",
   "link": {
     "rel": "alternate",
