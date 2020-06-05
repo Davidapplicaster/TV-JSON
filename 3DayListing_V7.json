@@ -12,8 +12,9 @@
   "entry": [
     {
       "type": {
-        "value": "video"
+        "value": "feed"
       },
+      {
       "title": "Escape To The Country",
       "summary": "Sonali Shah heads to the Norfolk countryside with a couple planning to buy their first home together, who have high hopes that their £375,000 budget will afford them a character property",
       "id": "001",
@@ -54,9 +55,6 @@
       }
     },
     {
-      "type": {
-        "value": "video"
-      },
       "title": "Garden Rescue",
       "summary": "Arit Anderson and the Rich brothers are in Luton to create a garden with a ‘holiday at home’ feel. Elizabeth and Benjamin Lovett and their children Thomas and Eleanor are a fun-loving family, but their garden is pretty drab.",
       "id": "002",
