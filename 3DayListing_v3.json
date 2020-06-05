@@ -14,6 +14,7 @@
       "type": {
         "value": "feed"
       },
+      {
       "title": "Escape To The Country",
       "summary": "Sonali Shah heads to the Norfolk countryside with a couple planning to buy their first home together, who have high hopes that their £375,000 budget will afford them a character property",
       "id": "001",
@@ -21,7 +22,7 @@
       "content": {
       "type": "video/hls",
       "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
-    }
+    },
       "media_group": [
         {
           "type": "thumbnail",
