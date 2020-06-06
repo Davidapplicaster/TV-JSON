@@ -44,9 +44,9 @@
         "href": "http://www.hd-trailers.net/movie/mad-max-fury-road/#d9i78rUtxHJ7z3kK.99"
       },
       "extensions": {
+        "section": "On Now",
         "free": "true",
         "is_downloadable": true,
-        "cell description": "A birthday cake sets a house on fire, a toddler puts an iPad in a washing machine and a cow breaks into a home to use the swimming pool.",
         "associated_feeds": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbGxpc3RpbmdzaW50My5qc29u=="
       }
     },
