@@ -591,13 +591,13 @@
           "type": "thumbnail",
           "media_item": [
             {
-              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/HGTV.png",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Reality.jpg",
               "scale": "small",
               "type": "thumbnail",
               "key": "thumbnail-small"
             },
             {
-              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/HGTV.png",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Reality.jpg",
               "scale": "large",
               "type": "thumbnail",
               "key": "thumbnail-large"
