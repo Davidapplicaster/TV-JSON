@@ -44,9 +44,9 @@
         "href": "http://www.hd-trailers.net/movie/mad-max-fury-road/#d9i78rUtxHJ7z3kK.99"
       },
       "extensions": {
+        "section": "On Now",
         "free": "true",
         "is_downloadable": true,
-        "cell description": "Flog It! revisits some of the stunning locations from this series. The experts are hunting out antiques and collectibles at Greenwich Royal Naval College, Althorp House, Herstmonceux Castle and Reading Town Hall.",
         "associated_feeds": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbGxpc3RpbmdzaW50Mi5qc29u=="
       }
     },
