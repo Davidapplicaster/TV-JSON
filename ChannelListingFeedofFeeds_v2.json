@@ -561,13 +561,13 @@
           "type": "thumbnail",
           "media_item": [
             {
-              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Reality.jpg",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/hbo.jpg",
               "scale": "small",
               "type": "thumbnail",
               "key": "thumbnail-small"
             },
             {
-              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Reality.jpg",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/hbo.jpg",
               "scale": "large",
               "type": "thumbnail",
               "key": "thumbnail-large"
