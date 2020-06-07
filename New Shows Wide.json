@@ -35,7 +35,7 @@
       "title": "Westworld",
       "summary": "",
       "content": {
-        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8",
+        "src": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
         "type": "video/hls"
       },
       "media_group": [
