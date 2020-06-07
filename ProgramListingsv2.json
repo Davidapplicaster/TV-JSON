@@ -46,7 +46,7 @@
       "extensions": {
         "section": "On Now",
         "free": "true",
-        "is_downloadable": true,
+        "is_downloadable": true
       }
     },
     {
@@ -88,7 +88,7 @@
       "extensions": {
         "free": "true",
         "is_downloadable": true,
-        "cell description": "Arit Anderson and the Rich brothers are in Luton to create a garden with a ‘holiday at home’ feel. Elizabeth and Benjamin Lovett and their children Thomas and Eleanor are a fun-loving family, but their garden is pretty drab.",
+        "cell description": "Arit Anderson and the Rich brothers are in Luton to create a garden with a ‘holiday at home’ feel. Elizabeth and Benjamin Lovett and their children Thomas and Eleanor are a fun-loving family, but their garden is pretty drab."
      }
     },
     {
@@ -129,7 +129,7 @@
       },
       "extensions": {
         "free": "true",
-        "cell description": "Drama series based on the novels of GK Chesterton. Father Brown deduces that the apparent suicide of a recently returned RAF pilot was actually murder",
+        "cell description": "Drama series based on the novels of GK Chesterton. Father Brown deduces that the apparent suicide of a recently returned RAF pilot was actually murder"
       }
     },
     {
@@ -170,7 +170,7 @@
       },
       "extensions": {
         "free": "true",
-        "cell description": "As Ayesha makes a decision on her future, Bear sees a side of her that shocks him. Harper makes Daniel feel redundant, and helping a teenage cheerleader with an unusual family prompts Al to make a decision about his mum.",
+        "cell description": "As Ayesha makes a decision on her future, Bear sees a side of her that shocks him. Harper makes Daniel feel redundant, and helping a teenage cheerleader with an unusual family prompts Al to make a decision about his mum."
       }
     },
     {
@@ -211,7 +211,7 @@
       },
       "extensions": {
         "free": "true",
-        "cell description": "The Elsecar Heritage Centre plays host to today's programme. Presenter Anita Manning leads proceedings whilst experts Tim Weeks and Caroline Hawley help the teams find the bargains that will hopefully make them a profit at auction",
+        "cell description": "The Elsecar Heritage Centre plays host to today's programme. Presenter Anita Manning leads proceedings whilst experts Tim Weeks and Caroline Hawley help the teams find the bargains that will hopefully make them a profit at auction"
       }
     },
     {
@@ -252,7 +252,7 @@
       },
       "extensions": {
         "free": "true",
-        "cell description": "Alex Jones and Rylan Clark-Neal talk to football pundit Chris Kamara and Ed Balls. Watchdog looks into car insurance",
+        "cell description": "Alex Jones and Rylan Clark-Neal talk to football pundit Chris Kamara and Ed Balls. Watchdog looks into car insurance"
       }
     }
   ],
