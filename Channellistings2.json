@@ -48,8 +48,9 @@
         "free": "true",
         "is_downloadable": true,
         "associated_feeds": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3RpbmdzSW50Lmpzb24%3D=="
-      },
-    {
+      }
+     },
+     {
       "type": {
         "value": "video"
       },
