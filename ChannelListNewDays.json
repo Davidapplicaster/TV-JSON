@@ -1,0 +1,35 @@
+{
+  "title": "Program Guide",
+  "entry": [
+    {
+      "title": "Today",
+      "id": "P1001,
+      "type": {
+        "value": "feed"
+      },
+      "content": {
+        "src": "https://zapp-pipes.herokuapp.com/general-provider/fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3RpbmdzSW50Lmpzb24%3D"
+      }
+    },
+    {
+      "title": "Tomorrow",
+      "id": "PG102",
+      "type": {
+        "value": "feed"
+      },
+      "content": {
+        "src": "https://zapp-pipes.herokuapp.com/general-provider/fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbGxpc3RpbmdzaW50Mi5qc29u"
+      }
+    },
+      {
+        "title": "Wednesday",
+        "id": "PG103",
+        "type": {
+          "value": "feed"
+        },
+        "content": {
+          "src": "https://zapp-pipes.herokuapp.com/general-provider/fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbGxpc3RpbmdzaW50My5qc29u"
+      }
+    }
+  ]
+}
