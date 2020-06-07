@@ -14,7 +14,7 @@
       "title": "BBC1",
       "content": {
         "type": "feed",
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D=="
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D"
       },
       "media_group": [
         {
@@ -44,7 +44,7 @@
       "title": "BBC2",
       "content": {
         "type": "feed",
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D=="
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D"
       },
       "media_group": [
         {
@@ -74,7 +74,7 @@
       "title": "ITV1",
       "content": {
         "type": "feed",
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D=="
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D"
       },
       "media_group": [
         {
@@ -104,7 +104,7 @@
       "title": "ITV2",
       "content": {
         "type": "feed",
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D=="
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D"
       },
       "media_group": [
         {
@@ -134,7 +134,7 @@
       "title": "CH5",
       "content": {
         "type": "feed",
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D=="
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D"
       },
       "media_group": [
         {
@@ -164,7 +164,7 @@
       "title": "Discovery",
       "content": {
         "type": "feed",
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D=="
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D"
       },
       "media_group": [
         {
@@ -194,7 +194,7 @@
       "title": "CH4",
       "content": {
         "type": "feed",
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D=="
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D"
       },
       "media_group": [
         {
@@ -224,7 +224,7 @@
       "title": "Quest",
       "content": {
         "type": "feed",
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D=="
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D"
       },
       "media_group": [
         {
@@ -254,7 +254,7 @@
       "title": "HGTV",
       "content": {
         "type": "feed",
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D=="
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D"
       },
       "media_group": [
         {
@@ -284,7 +284,7 @@
       "title": "Pick",
       "content": {
         "type": "feed",
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D=="
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D"
       },
       "media_group": [
         {
@@ -314,7 +314,7 @@
       "title": "Paramount Network",
       "content": {
         "type": "feed",
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D=="
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D"
       },
       "media_group": [
         {
@@ -344,7 +344,7 @@
       "title": "ABC",
       "content": {
         "type": "feed",
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D=="
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D"
       },
       "media_group": [
         {
@@ -374,7 +374,7 @@
       "title": "AMC",
       "content": {
         "type": "feed",
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D=="
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D"
       },
       "media_group": [
         {
@@ -404,7 +404,7 @@
       "title": "Bravo",
       "content": {
         "type": "feed",
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D=="
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D"
       },
       "media_group": [
         {
@@ -434,7 +434,7 @@
       "title": "CBS",
       "content": {
         "type": "feed",
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D=="
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D"
       },
       "media_group": [
         {
@@ -464,7 +464,7 @@
       "title": "FOX",
       "content": {
         "type": "feed",
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D=="
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D"
       },
       "media_group": [
         {
@@ -494,7 +494,7 @@
       "title": "MTV",
       "content": {
         "type": "feed",
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D=="
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D"
       },
       "media_group": [
         {
@@ -524,7 +524,7 @@
       "title": "NBC",
       "content": {
         "type": "feed",
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D=="
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D"
       },
       "media_group": [
         {
@@ -554,7 +554,7 @@
       "title": "Reality",
       "content": {
         "type": "feed",
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D=="
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D"
       },
       "media_group": [
         {
@@ -584,7 +584,7 @@
       "title": "HGTV",
       "content": {
         "type": "feed",
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D=="
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D"
       },
       "media_group": [
         {
@@ -614,7 +614,7 @@
       "title": "TLC",
       "content": {
         "type": "feed",
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D=="
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D"
       },
       "media_group": [
         {
@@ -644,7 +644,7 @@
       "title": "The Travel Channel",
       "content": {
         "type": "feed",
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D=="
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D"
       },
       "media_group": [
         {
