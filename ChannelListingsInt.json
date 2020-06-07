@@ -1,17 +1,13 @@
 {
-  "type": {
-    "value": "feed"
-  },
   "title": "Program Guide",
-  "id": "118",
-  "entry": [
+   "entry": [
     {
       "title": "Program Guide",
+      "id": "118"
       "type": {
         "value": "feed"
       },
       "content": {
-        "type": "feed",
         "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvUHJvZ3JhbUxpc3RpbmdzdjIuanNvbg%3D%3D="
       }
     }
