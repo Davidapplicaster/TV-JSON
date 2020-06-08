@@ -298,6 +298,7 @@
     }
   ],
   "type": {
-    "value": "feed"
+    "value": "feed",
+    "id": "PL2"
   }
 }
