@@ -1,0 +1,23 @@
+{
+  "type": {
+    "value": "feed"
+  },
+  "title": "",
+  "id": "1234567890",
+  "entry": [
+    {
+      "type": {
+        "value": "feed"
+      },
+      "title": "More information about Applicaster Quick Brick TV apps can be found at:",
+      "id": "1234567890",
+      "summary": "www.applicaster.com",
+      "extensions": {
+        "extra_text": ""
+      }
+    }
+  ],
+  "extensions": {
+    "executionTime": 0
+  }
+}
