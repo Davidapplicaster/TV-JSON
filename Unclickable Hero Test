@@ -1,0 +1,36 @@
+{
+  "type": {
+    "value": "feed"
+  },
+  "id": "uid_12345654321",
+  "entry": [
+    {
+      "type": {
+        "value": "feed"
+      },
+      "id": "uid_12345654321",
+      "title": "Outstanding Drama Series",
+      "summary": "The Handmaid's Tale",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "key": "image_base",
+              "src": "https://assets-production.applicaster.com/applicaster-employees/israel_team/Aviran/emmys%20demo%20data/pic@3x.png"
+            },
+            {
+              "type": "image",
+              "key": "image1",
+              "src": "https://assets-production.applicaster.com/applicaster-employees/israel_team/Aviran/emmys%20demo%20data/logp@3x.png"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "extensions": {
+    "executionTime": 1
+  }
+}
