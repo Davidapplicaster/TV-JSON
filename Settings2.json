@@ -3,14 +3,14 @@
     "value": "feed"
   },
   "title": "",
-  "id": "1234567890",
+  "id": "1234567891",
   "entry": [
     {
       "type": {
         "value": "feed"
       },
-      "title": "More information about uilding Quick Brick TV apps can be found at:",
-      "id": "1234567891",
+      "title": "More information about building Applicaster Quick Brick TV:",
+      "id": "1234567890",
       "summary": "www.applicaster.zendesk.com",
       "extensions": {
         "extra_text": ""
@@ -20,4 +20,3 @@
   "extensions": {
     "executionTime": 0
   }
-}
