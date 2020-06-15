@@ -9,9 +9,9 @@
       "type": {
         "value": "feed"
       },
-      "title": "More information about Applicaster Quick Brick TV apps can be found at our website and helpdesk:",
+      "title": "More information about Applicaster can be found at our website",
       "id": "1234567890",
-      "summary": "www.applicaster.com and www.applicaster.zendesk.com",
+      "summary": "www.applicaster.com",
       "extensions": {
         "extra_text": "Scroll down for more"
       }
