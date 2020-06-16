@@ -9,8 +9,8 @@
         "value": "feed"
       },
       "id": "uid_12345654321",
-      "title": "Outstanding Drama Series",
-      "summary": "The Handmaid's Tale",
+      "title": "Applicaster Zapp",
+      "summary": "Apps for all Connected TV Devices",
       "media_group": [
         {
           "type": "image",
@@ -23,7 +23,7 @@
             {
               "type": "image",
               "key": "image1",
-              "src": "https://assets-production.applicaster.com/applicaster-employees/israel_team/Aviran/emmys%20demo%20data/logp@3x.png"
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Zapp%20Square%20512.png"
             }
           ]
         }
