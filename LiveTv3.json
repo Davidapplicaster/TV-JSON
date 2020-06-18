@@ -1,0 +1,223 @@
+{
+  "type": {
+    "value": "feed"
+  },
+  "entry": [
+    {
+      "id": "001",
+      "title": "Escape To The Country",
+      "summary": "Sonali Shah heads to the Norfolk countryside with a couple planning to buy their first home together, who have high hopes that their £375,000 budget will afford them a character property",
+      "type": {
+        "value": "video"
+      },
+      "content": {
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Escape.jpg",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "section": "BBC1",
+        "audio_player_artwork_aspect_ratio": "16:9",
+        "audio_player_background_image": "https://assets-production.applicaster.com/qa/zapp_qa/automation/images/jpg/image_4.jpg",
+        "audio_player_background_color": "#29ABE2",
+        "audio_player_channel_icon": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/baseline_library_music_white_48dp.png",
+        "audio_player_title_color": "#444444",
+        "audio_player_summary_color": "#444444",
+        "audio_player_rtl": false,
+        "start_time": "10:30",
+        "end_time": "12:00"
+      }
+    },
+    {
+      "id": "002",
+      "title": "Flog It",
+      "summary": "Flog It! revisits some of the stunning locations from this series. The experts are hunting out antiques and collectibles at Greenwich Royal Naval College, Althorp House, Herstmonceux Castle and Reading Town Hall.",
+      "type": {
+        "value": "video"
+      },
+      "content": {
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Flogit.jpg",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "section": "BBC2",
+        "audio_player_artwork_aspect_ratio": "16:9",
+        "audio_player_background_image": "https://assets-production.applicaster.com/qa/zapp_qa/automation/images/jpg/image_4.jpg",
+        "audio_player_background_color": "#29fbe2",
+        "audio_player_channel_icon": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/baseline_library_music_white_48dp.png",
+        "audio_player_title_color": "#444444",
+        "audio_player_summary_color": "#444444",
+        "audio_player_rtl": false,
+        "start_time": "10:00",
+        "end_time": "12:00"
+      }
+    },
+    {
+      "id": "003",
+      "title": "Pointless",
+      "summary": "Quiz in which contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else can think of.",
+      "type": {
+        "value": "video"
+      },
+      "content": {
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Pointless.jpg",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "section": "ITV1",
+        "audio_player_artwork_aspect_ratio": "16:9",
+        "audio_player_background_image": "https://assets-production.applicaster.com/qa/zapp_qa/automation/images/jpg/image_4.jpg",
+        "audio_player_background_color": "#c9fbe2",
+        "audio_player_channel_icon": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/baseline_library_music_white_48dp.png",
+        "audio_player_title_color": "#444444",
+        "audio_player_summary_color": "#444444",
+        "audio_player_rtl": false,
+        "start_time": "10:00",
+        "end_time": "12:00"
+      }
+    },
+    {
+      "id": "004",
+      "title": "Animal Park",
+      "summary": "In today’s episode, Kate Humble and Ben Fogle meet a lovelorn emu. Ever since Bourbon arrived at Family Farm, she has been a bit of a loner, but keeper Gemma reckons she has got just the boy to woo her and win her heart. Bounty might not be a pin-up, but Gemma dreams of baby emus.",
+      "type": {
+        "value": "video"
+      },
+      "content": {
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/AnimalPark.jpg",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "section": "ITV2",
+        "audio_player_artwork_aspect_ratio": "16:9",
+        "audio_player_background_image": "https://assets-production.applicaster.com/qa/zapp_qa/automation/images/jpg/image_4.jpg",
+        "audio_player_background_color": "#29abe2",
+        "audio_player_channel_icon": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/baseline_library_music_white_48dp.png",
+        "audio_player_title_color": "#444444",
+        "audio_player_summary_color": "#444444",
+        "audio_player_rtl": false,
+        "start_time": "10:00",
+        "end_time": "12:00"
+      }
+    },
+    {
+      "id": "005",
+      "title": "Live at the Apollo",
+      "summary": "In the fifth episode from the legendary Hammersmith Apollo, the fabulously funny Canadian comedy star Katherine Ryan is the host, introducing German comic and 8 Out of 10 Cats Does Countdown regular Henning Wehn and the brilliantly funny James Acaster.",
+      "type": {
+        "value": "video"
+      },
+      "content": {
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Liveattheapollo.jpg",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "section": "CH5",
+        "audio_player_artwork_aspect_ratio": "16:9",
+        "audio_player_background_image": "https://assets-production.applicaster.com/qa/zapp_qa/automation/images/jpg/image_4.jpg",
+        "audio_player_background_color": "#c9fbe2",
+        "audio_player_channel_icon": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/baseline_library_music_white_48dp.png",
+        "audio_player_title_color": "#444444",
+        "audio_player_summary_color": "#444444",
+        "audio_player_rtl": false,
+        "start_time": "10:00",
+        "end_time": "12:00"
+      }
+    },
+    {
+      "id": "006",
+      "title": "Newsnight",
+      "summary": "The day's important national and international news stories. With Kirsty Wark.",
+      "type": {
+        "value": "video"
+      },
+      "content": {
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Newsnight.jpg",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "section": "Discovery Channel",
+        "audio_player_artwork_aspect_ratio": "16:9",
+        "audio_player_background_image": "https://assets-production.applicaster.com/qa/zapp_qa/automation/images/jpg/image_4.jpg",
+        "audio_player_background_color": "#c9fbe2",
+        "audio_player_channel_icon": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/baseline_library_music_white_48dp.png",
+        "audio_player_title_color": "#444444",
+        "audio_player_summary_color": "#444444",
+        "audio_player_rtl": false,
+        "start_time": "10:00",
+        "end_time": "12:00"
+      }
+    }
+  ],
+  "author": {
+    "name": "Applicaster"
+  },
+  "id": "LVE-001",
+  "title": "On Now",
+  "description": ""
+}
