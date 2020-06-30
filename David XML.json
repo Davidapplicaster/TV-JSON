@@ -1,0 +1,432 @@
+{
+  "xmlns:applicaster": "http://schemas.applicaster.com/atom/1",
+  "xmlns": "http://www.w3.org/2005/Atom",
+  "xml:lang": "en-us",
+  "title": "Video Feed XML- mp4 and m3u8",
+  "subtitle": "Videos Genre - Comedy",
+  "link": {
+    "rel": "self",
+    "type": "atom",
+    "href": "http://www.applicaster.com"
+  },
+  "updated": "01/01/2018 00:00:00",
+  "id": "12f0a8c7b1f43f325fabfd270cf25bf3",
+  "author": {
+    "name": "Applicaster"
+  },
+  "entry": [
+    {
+      "type": {
+        "value": "video"
+      },
+      "title": "Central Intelligence",
+      "summary": "Bullied as a teen for being overweight, Bob Stone (Dwayne Johnson) shows up to his high school reunion looking fit and muscular. While there, he finds Calvin Joyner (Kevin Hart), a fast-talking accountant who misses his glory days as a popular athlete. Stone is now a lethal CIA agent who needs Calvin's number skills to help him save the compromised U.S. spy satellite system. Together, the former classmates encounter shootouts, espionage and double-crosses while trying to prevent worldwide chaos.",
+      "id": "a3983053d1ebad89d3d442357a466789",
+      "published": "01/01/2018 00:00:00",
+      "updated": "",
+      "content": {
+        "type": "video/hls",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4"
+      },
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "http://www.applicaster.com/"
+      },
+      "media_group": [
+        {
+          "type": "thumbnail",
+          "media_item": [
+            {
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Spring%20Watch.jpg",
+              "type": "thumbnail",
+              "scale": "small",
+              "key": "thumbnail-small"
+            },
+            {
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Spring%20Watch.jpg",
+              "type": "thumbnail",
+              "scale": "large",
+              "key": "thumbnail-large"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "title": "Kingsman",
+      "summary": "Gary \"Eggsy\" Unwin (Taron Egerton), whose late father secretly worked for a spy organization, lives in a South London housing estate and seems headed for a life behind bars. However, dapper agent Harry Hart (Colin Firth) recognizes potential in the youth and recruits him to be a trainee in the secret service. Meanwhile, villainous Richmond Valentine (Samuel L. Jackson) launches a diabolical plan to solve the problem of climate change via a worldwide killing spree.",
+      "id": "a0276e224d8b7fd8d4250f182033ee8e",
+      "published": "01/01/2018 00:00:00",
+      "updated": "",
+      "content": {
+        "type": "video/hls",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4"
+      },
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "http://www.applicaster.com/"
+      },
+      "media_group": [
+        {
+          "type": "thumbnail",
+          "media_item": [
+            {
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Spring%20Watch.jpg",
+              "type": "thumbnail",
+              "scale": "small",
+              "key": "thumbnail-small"
+            },
+            {
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Spring%20Watch.jpg",
+              "type": "thumbnail",
+              "scale": "large",
+              "key": "thumbnail-large"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "title": "The Other Woman",
+      "summary": "New York lawyer Carly Whitten (Cameron Diaz) lives by strict rules when it comes to romantic relationships, but when she falls for suave, handsome Mark King (Nikolaj Coster-Waldau), she begins an affair with him. A surprise visit to Mark's home reveals that he is married to devoted housewife Kate (Leslie Mann). Carly and Kate direct their hurt and anger toward Mark, and when they discover yet a third woman (Kate Upton) caught in his web of lies, the three join forces for revenge.",
+      "id": "b3e89f93eedf5e5d3e18ae2f08f7c6e2",
+      "published": "01/01/2018 00:00:00",
+      "updated": "",
+      "content": {
+        "type": "video/hls",
+        "src": "https://assets-secure.applicaster.com/applicaster-employees/us_team/Colorful%20Big%20Discoball%20_%204K%20Relaxing%20Screensaver.mp4"
+      },
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "http://www.applicaster.com/"
+      },
+      "media_group": [
+        {
+          "type": "thumbnail",
+          "media_item": [
+            {
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Spring%20Watch.jpg",
+              "type": "thumbnail",
+              "scale": "small",
+              "key": "thumbnail-small"
+            },
+            {
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Spring%20Watch.jpg",
+              "type": "thumbnail",
+              "scale": "large",
+              "key": "thumbnail-large"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "title": "Why Him",
+      "summary": "During the holidays, loving but overprotective Ned (Bryan Cranston) travels to California to visit his daughter Stephanie (Zoey Deutch) at Stanford University. While there, he meets his biggest nightmare: her well-meaning but socially awkward boyfriend, Laird (James Franco). Even though Laird is a multimillionaire, Ned disapproves of his freewheeling attitude and unfiltered language. His panic level escalates even further when he learns that Laird plans to ask for Stephanie's hand in marriage.",
+      "id": "8c9fc0606204992bd6ce94bdd101eeac",
+      "published": "01/01/2018 00:00:00",
+      "updated": "",
+      "content": {
+        "type": "video/hls",
+        "src": "https://assets-secure.applicaster.com/applicaster-employees/us_team/Colorful%20Big%20Discoball%20_%204K%20Relaxing%20Screensaver.mp4"
+      },
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "http://www.applicaster.com/"
+      },
+      "media_group": [
+        {
+          "type": "thumbnail",
+          "media_item": [
+            {
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Spring%20Watch.jpg",
+              "type": "thumbnail",
+              "scale": "small",
+              "key": "thumbnail-small"
+            },
+            {
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Spring%20Watch.jpg",
+              "type": "thumbnail",
+              "scale": "large",
+              "key": "thumbnail-large"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "title": "Test_video_1",
+      "summary": "שנה למשבר במחלקה האונקולוגית בהדסה: האם מובילי המאבק להקמת מחלקה בשערי צדק מנסים להבריח חולים מהדסה? תלונה למשטרה כבר הוגשה בנושא ...",
+      "id": "108720",
+      "published": "",
+      "updated": "",
+      "content": {
+        "type": "video/hls",
+        "src": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+      },
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": ""
+      },
+      "media_group": [
+        {
+          "type": "thumbnail",
+          "media_item": [
+            {
+              "src": "https://assets-secure.applicaster.com/qa/zapp_qa/zapp_products/videos/Grace%20and%20Frankie%20/grace_and_frankie_s4_thumbnail.jpg",
+              "scale": "large",
+              "type": "thumbnail",
+              "key": "thumbnail-large"
+            },
+            {
+              "src": "https://assets-secure.applicaster.com/qa/zapp_qa/zapp_products/videos/Grace%20and%20Frankie%20/grace_and_frankie_s4_thumbnail.jpg",
+              "scale": "small",
+              "type": "thumbnail",
+              "key": "thumbnail-small"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "title": "Test_video_2",
+      "summary": "לידי ערוץ 20 הגיע מידע לפיו למח\"ש הגיעו מכתבים אנונימיים שהובילו לפתיחה בחקירה נגד הלוי. מח\"ש: \"לא מתייחסים לשאלות הנוגעות לבדיקות או חקירות\" ...",
+      "id": "108703",
+      "published": "",
+      "updated": "",
+      "content": {
+        "type": "video/hls",
+        "src": "https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8"
+      },
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": ""
+      },
+      "media_group": [
+        {
+          "type": "thumbnail",
+          "media_item": [
+            {
+              "src": "https://assets-secure.applicaster.com/qa/zapp_qa/zapp_products/videos/Grace%20and%20Frankie%20/grace_and_frankie_s5_thumbnail.jpg",
+              "scale": "large",
+              "type": "thumbnail",
+              "key": "thumbnail-large"
+            },
+            {
+              "src": "https://assets-secure.applicaster.com/qa/zapp_qa/zapp_products/videos/Grace%20and%20Frankie%20/grace_and_frankie_s5_thumbnail.jpg",
+              "scale": "small",
+              "type": "thumbnail",
+              "key": "thumbnail-small"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "title": "Test_video_3",
+      "summary": "13 שנים אחרי הגירוש מגוש קטיף בישובי העוטף מתחרטים על התמיכה במהלך: \"מתנצלת בפני אותם חבר'ה שחיו בגוש ואני הייתי נגדם\" ...",
+      "id": "108712",
+      "published": "",
+      "updated": "",
+      "content": {
+        "type": "video/hls",
+        "src": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+      },
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": ""
+      },
+      "media_group": [
+        {
+          "type": "thumbnail",
+          "media_item": [
+            {
+              "src": "https://assets-secure.applicaster.com/qa/zapp_qa/zapp_products/videos/Grace%20and%20Frankie%20/grace_and_frankie_s6_thumbnail.jpg",
+              "scale": "large",
+              "type": "thumbnail",
+              "key": "thumbnail-large"
+            },
+            {
+              "src": "https://assets-secure.applicaster.com/qa/zapp_qa/zapp_products/videos/Grace%20and%20Frankie%20/grace_and_frankie_s6_thumbnail.jpg",
+              "scale": "small",
+              "type": "thumbnail",
+              "key": "thumbnail-small"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "title": "Test_video_4",
+      "summary": "הפטריוטים מתווכחים על שאלת הטיפול של הממשלה בטרור הבלונים והעפיפונים ...",
+      "id": "108761",
+      "published": "",
+      "updated": "",
+      "content": {
+        "type": "video/hls",
+        "src": "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8"
+      },
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": ""
+      },
+      "media_group": [
+        {
+          "type": "thumbnail",
+          "media_item": [
+            {
+              "src": "https://assets-secure.applicaster.com/qa/zapp_qa/zapp_products/videos/Grace%20and%20Frankie%20/grace_and_frankie_s1_thumbnail.jpg",
+              "scale": "large",
+              "type": "thumbnail",
+              "key": "thumbnail-large"
+            },
+            {
+              "src": "https://assets-secure.applicaster.com/qa/zapp_qa/zapp_products/videos/Grace%20and%20Frankie%20/grace_and_frankie_s1_thumbnail.jpg",
+              "scale": "small",
+              "type": "thumbnail",
+              "key": "thumbnail-small"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "title": "Test_video_5",
+      "summary": "היום העיתונות תוקפת את גונן שגב אך בעבר כשקולו שימש כדי להעביר את הסכמי אוסלו, ב\"ידיעות אחרונות\" התנדבו לנדב סדרת כתבות מחמיאות ...",
+      "id": "108755",
+      "published": "",
+      "updated": "",
+      "content": {
+        "type": "video/hls",
+        "src": "https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8"
+      },
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": ""
+      },
+      "media_group": [
+        {
+          "type": "thumbnail",
+          "media_item": [
+            {
+              "src": "https://assets-secure.applicaster.com/qa/zapp_qa/zapp_products/videos/Grace%20and%20Frankie%20/grace_and_frankie_s2_thumbnail.jpg",
+              "scale": "large",
+              "type": "thumbnail",
+              "key": "thumbnail-large"
+            },
+            {
+              "src": "https://assets-secure.applicaster.com/qa/zapp_qa/zapp_products/videos/Grace%20and%20Frankie%20/grace_and_frankie_s2_thumbnail.jpg",
+              "scale": "small",
+              "type": "thumbnail",
+              "key": "thumbnail-small"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "title": "Test_video_6",
+      "summary": "ביום השנה להירצחה של לוחמת מג\"ב הדס מלכא סיפר אביה דוד ל'היום הזה': \"אנחנו קמים בבוקר וחיים עם הכאב וחוסר של השלם\" ...",
+      "id": "108785",
+      "published": "",
+      "updated": "",
+      "content": {
+        "type": "video/hls",
+        "src": "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8"
+      },
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": ""
+      },
+      "media_group": [
+        {
+          "type": "thumbnail",
+          "media_item": [
+            {
+              "src": "https://assets-secure.applicaster.com/qa/zapp_qa/zapp_products/videos/Grace%20and%20Frankie%20/grace_and_frankie_s3_thumbnail.jpg",
+              "scale": "large",
+              "type": "thumbnail",
+              "key": "thumbnail-large"
+            },
+            {
+              "src": "https://assets-secure.applicaster.com/qa/zapp_qa/zapp_products/videos/Grace%20and%20Frankie%20/grace_and_frankie_s3_thumbnail.jpg",
+              "scale": "small",
+              "type": "thumbnail",
+              "key": "thumbnail-small"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": ""
+      }
+    }
+  ],
+  "type": {
+    "value": "feed"
+  }
+}
