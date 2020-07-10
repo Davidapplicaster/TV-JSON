@@ -1,0 +1,148 @@
+{
+  "type": {
+    "value": "feed"
+  },
+  "entry": [
+    {
+      "id": "001",
+      "title": "live_audio_stream",
+      "summary": "this item plays item in mp3 format",
+      "type": {
+        "value": "audio"
+      },
+      "content": {
+        "src": "https://kanapi.media.kan.org.il/Redirector/ipbc/direct/kan-gimmel/hls-live.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Radio_1.jpg",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "audio_player_artwork_aspect_ratio": "",
+        "audio_player_background_image": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/audio.jpg",
+        "audio_player_background_color": "",
+        "audio_player_channel_icon": "",
+        "audio_player_title_color": "",
+        "audio_player_summary_color": "",
+        "audio_player_rtl": "",
+        "start_time": "",
+        "end_time": ""
+      }
+    },
+    {
+      "id": "002",
+      "title": "live_audio_stream_10_to_12",
+      "summary": "this item plays item in mp3 format",
+      "type": {
+        "value": "audio"
+      },
+      "content": {
+        "src": "https://kanapi.media.kan.org.il/Redirector/ipbc/direct/kan-gimmel/hls-live.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Radio_2.jpg",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "audio_player_artwork_aspect_ratio": "",
+        "audio_player_background_image": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/audio.jpg",
+        "audio_player_background_color": "",
+        "audio_player_channel_icon": "",
+        "audio_player_title_color": "",
+        "audio_player_summary_color": "",
+        "audio_player_rtl": "",
+        "start_time": "10:00",
+        "end_time": "12:00"
+      }
+    },
+    {
+      "id": "003",
+      "title": "vod_audio_stream",
+      "summary": "this item plays item in mp3 format",
+      "type": {
+        "value": "audio"
+      },
+      "content": {
+        "src": "https://assets-production.applicaster.com/qa/zapp_qa/automation/podcast/podcast_1.mp3"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Podcast.jpg",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "audio_player_artwork_aspect_ratio": "",
+        "audio_player_background_image": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/audio.jpg",
+        "audio_player_background_color": "",
+        "audio_player_channel_icon": "",
+        "audio_player_title_color": "",
+        "audio_player_summary_color": "",
+        "audio_player_rtl": "",
+        "start_time": "",
+        "end_time": ""
+      }
+    },
+    {
+      "id": "004",
+      "title": "vod_audio_stream_",
+      "summary": "this item plays item in mp3 format",
+      "type": {
+        "value": "audio"
+      },
+      "content": {
+        "src": "https://assets-production.applicaster.com/qa/zapp_qa/automation/podcast/podcast_1.mp3"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Podcast.jpg",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "audio_player_artwork_aspect_ratio": "",
+        "audio_player_background_image": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/audio.jpg",
+        "audio_player_background_color": "",
+        "audio_player_channel_icon": "",
+        "audio_player_title_color": "",
+        "audio_player_summary_color": "",
+        "audio_player_rtl": "",
+        "start_time": "",
+        "end_time": ""
+      }
+    }
+  ],
+  "author": {
+    "name": "applicaster"
+  },
+  "id": "34671",
+  "title": "Applicaster Cell Types"
+}
