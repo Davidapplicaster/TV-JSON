@@ -1,0 +1,36 @@
+{
+  "type": {
+    "value": "feed"
+  },
+  "entry": [
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "QBS-TTV001",
+      "title": "Upload",
+      "summary": "",
+      "content": {
+        "src": "https://reshet-live.ctedgecdn.net/13tv-desktop/dvr/r13.m3u8",
+        "type": "video/hls"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Reshet.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "author": {
+    "name": "Applicaster"
+  },
+  "id": "QBS-045",
+  "title": "Live"
+}
