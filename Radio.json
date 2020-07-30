@@ -5,7 +5,7 @@
   "entry": [
     {
       "id": "001",
-      "title": "Bangin choonz",
+      "title": "Bangin Choonz",
       "summary": "This is an mp3 AOD",
       "type": {
         "value": "audio"
@@ -39,7 +39,7 @@
     },
     {
       "id": "002",
-      "title": "That's more like it",
+      "title": "Easy Listening",
       "summary": "This is an audio/hls live stream",
       "type": {
         "value": "audio"
@@ -73,7 +73,7 @@
     },
     {
       "id": "003",
-      "title": "Ancient stuff",
+      "title": "Classical Gems",
       "summary": "This is an mp3 AOD",
       "type": {
         "value": "audio"
@@ -112,7 +112,7 @@
     },
     {
       "id": "004",
-      "title": "Serious news",
+      "title": "Latest News",
       "summary": "this is a live audio/hls stream",
       "type": {
         "value": "audio"
@@ -151,7 +151,7 @@
     },
     {
       "id": "005",
-      "title": "Sport chat",
+      "title": "Sport Chat",
       "summary": "This is a live audio/hls stream",
       "type": {
         "value": "audio"
@@ -190,7 +190,7 @@
     },
     {
       "id": "006",
-      "title": "Old Folkies",
+      "title": "Live Sessions",
       "summary": "This is a live audio/hls stream",
       "type": {
         "value": "audio"
