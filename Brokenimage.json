@@ -11,7 +11,7 @@
       "title": "Upload",
       "summary": "",
       "content": {
-        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+        "src": "https://player.vimeo.com/external/347004307.hd.mp4?s=10a5e6e4121e48a4bc6125bf244a830a7a454b2d&profile_id=173",
         "type": "video/hls"
       },
       "media_group": [
