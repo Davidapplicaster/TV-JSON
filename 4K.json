@@ -1,0 +1,862 @@
+{
+  "providerName": "4KUNIVERSE",
+  "lastUpdated": "2020-08-01T15:37:54-04:00",
+  "language": "en",
+  "movies": [
+    {
+      "id": "347004307",
+      "title": "4KUNIVERSE is here. The New 4K HDR TV Channel.",
+      "shortDescription": "4KUNIVERSE is here. The New 4K HDR TV Channel.",
+      "thumbnail": "https://i.vimeocdn.com/video/799961987_800x450.png",
+      "releaseDate": "2019-07-09T00:03:36-04:00",
+      "genres": [
+        "adventure",
+        "animated",
+        "children",
+        "documentary",
+        "drama",
+        "fashion",
+        "health",
+        "nature",
+        "reality",
+        "special",
+        "sports"
+      ],
+      "tags": [
+        "adventure",
+        "animated",
+        "children",
+        "documentary",
+        "drama",
+        "fashion",
+        "health",
+        "nature",
+        "reality",
+        "special",
+        "sports"
+      ],
+      "content": {
+        "dateAdded": "2020-02-01T11:38:18-05:00",
+        "duration": 179,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/347004307.hd.mp4?s=10a5e6e4121e48a4bc6125bf244a830a7a454b2d&profile_id=173",
+            "quality": "UHD",
+            "videoType": "MP4",
+            "bitrate": 16777215
+          }
+        ]
+      }
+    },
+    {
+      "id": "328059773",
+      "title": "It's Coming. | 4K",
+      "shortDescription": "It's Coming. | 4K",
+      "thumbnail": "https://i.vimeocdn.com/video/772506281_800x450.png",
+      "releaseDate": "2019-04-02T18:28:35-04:00",
+      "genres": [
+        "adventure",
+        "animated",
+        "children",
+        "documentary",
+        "drama",
+        "fashion",
+        "health",
+        "nature",
+        "reality",
+        "special",
+        "sports"
+      ],
+      "tags": [
+        "adventure",
+        "animated",
+        "children",
+        "documentary",
+        "drama",
+        "fashion",
+        "health",
+        "nature",
+        "reality",
+        "special",
+        "sports"
+      ],
+      "content": {
+        "dateAdded": "2020-02-01T11:38:18-05:00",
+        "duration": 31,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/328059773.hd.mp4?s=0063b13e01b51f1d7233d43fe327fc4aeecdd207&profile_id=136",
+            "quality": "UHD",
+            "videoType": "MP4",
+            "bitrate": 12312905
+          }
+        ]
+      }
+    },
+    {
+      "id": "347323191",
+      "title": "Model Turned Superstar Ep. 1 | 4K",
+      "shortDescription": "Model Turned Superstar Ep. 1 | 4K",
+      "thumbnail": "https://i.vimeocdn.com/video/797620720_800x450.png",
+      "releaseDate": "2019-07-10T11:32:52-04:00",
+      "genres": [
+        "adventure",
+        "animated",
+        "children",
+        "documentary",
+        "drama",
+        "fashion",
+        "health",
+        "nature",
+        "reality",
+        "special",
+        "sports"
+      ],
+      "tags": [
+        "adventure",
+        "animated",
+        "children",
+        "documentary",
+        "drama",
+        "fashion",
+        "health",
+        "nature",
+        "reality",
+        "special",
+        "sports"
+      ],
+      "content": {
+        "dateAdded": "2020-02-01T11:37:07-05:00",
+        "duration": 1370,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/347323191.hd.mp4?s=370051432f04fa3ac0b3817ecd993208d3318618&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 5293435
+          }
+        ]
+      }
+    },
+    {
+      "id": "353431488",
+      "title": "Blue World Eps 1 | 4K",
+      "shortDescription": "Blue World Eps 1 | 4K",
+      "thumbnail": "https://i.vimeocdn.com/video/805628784_800x450.png",
+      "releaseDate": "2019-08-12T15:12:25-04:00",
+      "genres": [
+        "adventure",
+        "animated",
+        "children",
+        "documentary",
+        "drama",
+        "fashion",
+        "health",
+        "nature",
+        "reality",
+        "special",
+        "sports"
+      ],
+      "tags": [
+        "adventure",
+        "animated",
+        "children",
+        "documentary",
+        "drama",
+        "fashion",
+        "health",
+        "nature",
+        "reality",
+        "special",
+        "sports"
+      ],
+      "content": {
+        "dateAdded": "2020-02-01T11:38:18-05:00",
+        "duration": 1438,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/353431488.hd.mp4?s=eeca1db4407f264c88bd5d0cca32b643bd1d88b9&profile_id=149",
+            "quality": "UHD",
+            "videoType": "MP4",
+            "bitrate": 16200662
+          }
+        ]
+      }
+    },
+    {
+      "id": "345970425",
+      "title": "Cosmos Laundromat | 4K",
+      "shortDescription": "Cosmos Laundromat | 4K",
+      "thumbnail": "https://i.vimeocdn.com/video/795885492_800x450.png",
+      "releaseDate": "2019-07-03T14:19:26-04:00",
+      "genres": [
+        "adventure",
+        "animated",
+        "children",
+        "documentary",
+        "drama",
+        "fashion",
+        "health",
+        "nature",
+        "reality",
+        "special",
+        "sports"
+      ],
+      "tags": [
+        "adventure",
+        "animated",
+        "children",
+        "documentary",
+        "drama",
+        "fashion",
+        "health",
+        "nature",
+        "reality",
+        "special",
+        "sports"
+      ],
+      "content": {
+        "dateAdded": "2020-02-01T11:38:18-05:00",
+        "duration": 731,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/345970425.hd.mp4?s=ac882d6c73f1da7c55f826d88c7b81d18561f66c&profile_id=172",
+            "quality": "UHD",
+            "videoType": "MP4",
+            "bitrate": 13453600
+          }
+        ]
+      }
+    },
+    {
+      "id": "389876205",
+      "title": "SEVEN | 4K",
+      "shortDescription": "SEVEN | 4K",
+      "thumbnail": "https://i.vimeocdn.com/video/853777196_800x450.png",
+      "releaseDate": "2020-02-06T20:45:56-05:00",
+      "genres": [
+        "adventure",
+        "animated",
+        "children",
+        "documentary",
+        "drama",
+        "fashion",
+        "health",
+        "nature",
+        "reality",
+        "special",
+        "sports"
+      ],
+      "tags": [
+        "adventure",
+        "animated",
+        "children",
+        "documentary",
+        "drama",
+        "fashion",
+        "health",
+        "nature",
+        "reality",
+        "special",
+        "sports"
+      ],
+      "content": {
+        "dateAdded": "2020-02-07T00:05:47-05:00",
+        "duration": 642,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/389876205.hd.mp4?s=b21bbb6bf51371e78a5545ee31a2736a85aa1c4a&profile_id=172",
+            "quality": "UHD",
+            "videoType": "MP4",
+            "bitrate": 16777215
+          }
+        ]
+      }
+    },
+    {
+      "id": "383843440",
+      "title": "The Empire of Winds 4K",
+      "shortDescription": "The Empire of Winds 4K",
+      "thumbnail": "https://i.vimeocdn.com/video/851628752_800x450.png",
+      "releaseDate": "2020-01-09T15:52:02-05:00",
+      "genres": [
+        "adventure",
+        "animated",
+        "children",
+        "documentary",
+        "drama",
+        "fashion",
+        "health",
+        "nature",
+        "reality",
+        "special",
+        "sports"
+      ],
+      "tags": [
+        "adventure",
+        "animated",
+        "children",
+        "documentary",
+        "drama",
+        "fashion",
+        "health",
+        "nature",
+        "reality",
+        "special",
+        "sports"
+      ],
+      "content": {
+        "dateAdded": "2020-02-01T11:37:17-05:00",
+        "duration": 3307,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/383843440.hd.mp4?s=e2ca206e993cff36900392b45c90e2ffb62e5bce&profile_id=172",
+            "quality": "UHD",
+            "videoType": "MP4",
+            "bitrate": 16777215
+          }
+        ]
+      }
+    },
+    {
+      "id": "348688143",
+      "title": "Mance Media Studio Logo | 4K",
+      "shortDescription": "Mance Media Studio Logo | 4K",
+      "thumbnail": "https://i.vimeocdn.com/video/799397851_800x450.png",
+      "releaseDate": "2019-07-17T16:35:23-04:00",
+      "genres": [
+        "adventure",
+        "animated",
+        "children",
+        "documentary",
+        "drama",
+        "fashion",
+        "health",
+        "nature",
+        "reality",
+        "special",
+        "sports"
+      ],
+      "tags": [
+        "adventure",
+        "animated",
+        "children",
+        "documentary",
+        "drama",
+        "fashion",
+        "health",
+        "nature",
+        "reality",
+        "special",
+        "sports"
+      ],
+      "content": {
+        "dateAdded": "2020-02-01T11:38:18-05:00",
+        "duration": 14,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/348688143.hd.mp4?s=9e3d49f1dbfb53f4b2f34ccbc56a2c0d0e9bb3a5&profile_id=173",
+            "quality": "UHD",
+            "videoType": "MP4",
+            "bitrate": 9306549
+          }
+        ]
+      }
+    },
+    {
+      "id": "353552799",
+      "title": "Welcome Back, TV Viewer.",
+      "shortDescription": "#4KUNIVERSE\nwww.4kuniversenow.com\n\nVoice over artist: Cliff Lloret\nProducer: Matthew Mancinelli",
+      "thumbnail": "https://i.vimeocdn.com/video/814921458_800x450.png",
+      "releaseDate": "2019-08-13T07:38:42-04:00",
+      "genres": [
+        "adventure",
+        "animated",
+        "children",
+        "documentary",
+        "drama",
+        "fashion",
+        "health",
+        "nature",
+        "reality",
+        "special",
+        "sports"
+      ],
+      "tags": [
+        "adventure",
+        "animated",
+        "children",
+        "documentary",
+        "drama",
+        "fashion",
+        "health",
+        "nature",
+        "reality",
+        "special",
+        "sports"
+      ],
+      "content": {
+        "dateAdded": "2020-02-01T11:38:18-05:00",
+        "duration": 57,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/353552799.hd.mp4?s=47d1272adc2d97c7c96756a6683b82ae9785fd78&profile_id=173",
+            "quality": "UHD",
+            "videoType": "MP4",
+            "bitrate": 16777215
+          }
+        ]
+      }
+    },
+    {
+      "id": "326582053",
+      "title": "COUNTDOWN | 4K",
+      "shortDescription": "COUNTDOWN | 4K",
+      "thumbnail": "https://i.vimeocdn.com/video/798425302_800x450.png",
+      "releaseDate": "2019-03-26T10:26:16-04:00",
+      "genres": [
+        "adventure",
+        "animated",
+        "children",
+        "documentary",
+        "drama",
+        "fashion",
+        "health",
+        "nature",
+        "reality",
+        "special",
+        "sports"
+      ],
+      "tags": [
+        "adventure",
+        "animated",
+        "children",
+        "documentary",
+        "drama",
+        "fashion",
+        "health",
+        "nature",
+        "reality",
+        "special",
+        "sports"
+      ],
+      "content": {
+        "dateAdded": "2020-02-01T11:38:18-05:00",
+        "duration": 34,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/326582053.hd.mp4?s=6d6e4ea997b6b8f0366f60a236d17d4560ffea8c&profile_id=172",
+            "quality": "UHD",
+            "videoType": "MP4",
+            "bitrate": 2562415
+          }
+        ]
+      }
+    },
+    {
+      "id": "421369233",
+      "title": "Happy Memorial Day | 4K",
+      "shortDescription": "Happy Memorial Day | 4K",
+      "thumbnail": "https://i.vimeocdn.com/video/898990571_800x450.png",
+      "releaseDate": "2020-05-21T22:58:55-04:00",
+      "genres": [
+        "adventure",
+        "animated",
+        "children",
+        "documentary",
+        "drama",
+        "fashion",
+        "health",
+        "nature",
+        "reality",
+        "special",
+        "sports"
+      ],
+      "tags": [
+        "adventure",
+        "animated",
+        "children",
+        "documentary",
+        "drama",
+        "fashion",
+        "health",
+        "nature",
+        "reality",
+        "special",
+        "sports"
+      ],
+      "content": {
+        "dateAdded": "2020-05-26T10:24:23-04:00",
+        "duration": 91,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/421369233.hd.mp4?s=fdde3aa44c5359ee874e3a6480d06f73e1f61759&profile_id=173",
+            "quality": "UHD",
+            "videoType": "MP4",
+            "bitrate": 16777215
+          }
+        ]
+      }
+    },
+    {
+      "id": "348709911",
+      "title": "Eddie is a Yeti | 4K",
+      "shortDescription": "Eddie is a Yeti | 4K",
+      "thumbnail": "https://i.vimeocdn.com/video/799433452_800x450.png",
+      "releaseDate": "2019-07-17T18:55:24-04:00",
+      "genres": [
+        "adventure",
+        "animated",
+        "children",
+        "documentary",
+        "drama",
+        "fashion",
+        "health",
+        "nature",
+        "reality",
+        "special",
+        "sports"
+      ],
+      "tags": [
+        "adventure",
+        "animated",
+        "children",
+        "documentary",
+        "drama",
+        "fashion",
+        "health",
+        "nature",
+        "reality",
+        "special",
+        "sports"
+      ],
+      "content": {
+        "dateAdded": "2020-02-01T11:38:18-05:00",
+        "duration": 234,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/348709911.hd.mp4?s=f02ab612098e9c42060458403088a8c5d1fcf869&profile_id=172",
+            "quality": "UHD",
+            "videoType": "MP4",
+            "bitrate": 15101649
+          }
+        ]
+      }
+    },
+    {
+      "id": "431977922",
+      "title": "St. Tropez | 4K",
+      "shortDescription": "St. Tropez | 4K",
+      "thumbnail": "https://i.vimeocdn.com/video/913535184_800x450.png",
+      "releaseDate": "2020-06-23T19:19:30-04:00",
+      "genres": [
+        "adventure",
+        "animated",
+        "children",
+        "documentary",
+        "drama",
+        "fashion",
+        "health",
+        "nature",
+        "reality",
+        "special",
+        "sports"
+      ],
+      "tags": [
+        "adventure",
+        "animated",
+        "children",
+        "documentary",
+        "drama",
+        "fashion",
+        "health",
+        "nature",
+        "reality",
+        "special",
+        "sports"
+      ],
+      "content": {
+        "dateAdded": "2020-06-23T19:23:20-04:00",
+        "duration": 20,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/431977922.hd.mp4?s=c5d35dcab2622ce99fa206e0a54d1cbd4a057dba&profile_id=173",
+            "quality": "UHD",
+            "videoType": "MP4",
+            "bitrate": 16777215
+          }
+        ]
+      }
+    },
+    {
+      "id": "435235466",
+      "title": "4KUniverse 4th of July Fireworks Special!",
+      "shortDescription": "Happy 4th of July! Enjoy the show!",
+      "thumbnail": "https://i.vimeocdn.com/video/919065982_800x450.png",
+      "releaseDate": "2020-07-03T23:36:21-04:00",
+      "genres": [
+        "adventure",
+        "animated",
+        "children",
+        "documentary",
+        "drama",
+        "fashion",
+        "health",
+        "nature",
+        "reality",
+        "special",
+        "sports"
+      ],
+      "tags": [
+        "adventure",
+        "animated",
+        "children",
+        "documentary",
+        "drama",
+        "fashion",
+        "health",
+        "nature",
+        "reality",
+        "special",
+        "sports"
+      ],
+      "content": {
+        "dateAdded": "2020-07-03T23:58:14-04:00",
+        "duration": 1641,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/435235466.hd.mp4?s=523e5763ff8eadba7a4a650255a1341de407871c&profile_id=173",
+            "quality": "UHD",
+            "videoType": "MP4",
+            "bitrate": 16777215
+          }
+        ]
+      }
+    },
+    {
+      "id": "406234726",
+      "title": "4KU Cigar Review Ep. 2 - Byron Cigar | 4K",
+      "shortDescription": "4KU Cigar Review Ep. 2 - Byron Cigar | 4K",
+      "thumbnail": "https://i.vimeocdn.com/video/876667771_800x450.png",
+      "releaseDate": "2020-04-10T11:24:52-04:00",
+      "genres": [
+        "adventure",
+        "animated",
+        "children",
+        "documentary",
+        "drama",
+        "fashion",
+        "health",
+        "nature",
+        "reality",
+        "special",
+        "sports"
+      ],
+      "tags": [
+        "adventure",
+        "animated",
+        "children",
+        "documentary",
+        "drama",
+        "fashion",
+        "health",
+        "nature",
+        "reality",
+        "special",
+        "sports"
+      ],
+      "content": {
+        "dateAdded": "2020-04-10T11:41:35-04:00",
+        "duration": 586,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/406234726.hd.mp4?s=977eafef1941f2628427789300e36a38c6b1da9e&profile_id=172",
+            "quality": "UHD",
+            "videoType": "MP4",
+            "bitrate": 16030138
+          }
+        ]
+      }
+    },
+    {
+      "id": "406233146",
+      "title": "4KU Cigar Review Ep 1. - Sin Compromiso | 4K",
+      "shortDescription": "4KU Cigar Review Ep 1. - Sin Compromiso | 4K",
+      "thumbnail": "https://i.vimeocdn.com/video/876669530_800x450.png",
+      "releaseDate": "2020-04-10T11:19:58-04:00",
+      "genres": [
+        "adventure",
+        "animated",
+        "children",
+        "documentary",
+        "drama",
+        "fashion",
+        "health",
+        "nature",
+        "reality",
+        "special",
+        "sports"
+      ],
+      "tags": [
+        "adventure",
+        "animated",
+        "children",
+        "documentary",
+        "drama",
+        "fashion",
+        "health",
+        "nature",
+        "reality",
+        "special",
+        "sports"
+      ],
+      "content": {
+        "dateAdded": "2020-04-10T11:48:35-04:00",
+        "duration": 672,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/406233146.hd.mp4?s=fb6ceccc0736b72f423b863ca91b5061525aa3f2&profile_id=172",
+            "quality": "UHD",
+            "videoType": "MP4",
+            "bitrate": 16777215
+          }
+        ]
+      }
+    },
+    {
+      "id": "353907036",
+      "title": "Plant-Based by Nafsika Ep. 1 | 4K",
+      "shortDescription": "Plant-Based by Nafsika Ep. 1 | 4K",
+      "thumbnail": "https://i.vimeocdn.com/video/806240066_800x450.png",
+      "releaseDate": "2019-08-14T19:52:31-04:00",
+      "genres": [
+        "adventure",
+        "animated",
+        "children",
+        "documentary",
+        "drama",
+        "fashion",
+        "health",
+        "nature",
+        "reality",
+        "special",
+        "sports"
+      ],
+      "tags": [
+        "adventure",
+        "animated",
+        "children",
+        "documentary",
+        "drama",
+        "fashion",
+        "health",
+        "nature",
+        "reality",
+        "special",
+        "sports"
+      ],
+      "content": {
+        "dateAdded": "2020-02-01T11:38:18-05:00",
+        "duration": 1329,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/353907036.hd.mp4?s=b381f58b92431efdf725ee4c2ce3c3c1fcb3efe9&profile_id=172",
+            "quality": "UHD",
+            "videoType": "MP4",
+            "bitrate": 12567733
+          }
+        ]
+      }
+    },
+    {
+      "id": "438246073",
+      "title": "Money Giveaway Contest",
+      "shortDescription": "Money Giveaway Contest",
+      "thumbnail": "https://i.vimeocdn.com/video/924243974_800x450.png",
+      "releaseDate": "2020-07-14T11:45:18-04:00",
+      "genres": [
+        "adventure",
+        "animated",
+        "children",
+        "documentary",
+        "drama",
+        "fashion",
+        "health",
+        "nature",
+        "reality",
+        "special",
+        "sports"
+      ],
+      "tags": [
+        "adventure",
+        "animated",
+        "children",
+        "documentary",
+        "drama",
+        "fashion",
+        "health",
+        "nature",
+        "reality",
+        "special",
+        "sports"
+      ],
+      "content": {
+        "dateAdded": "2020-07-14T11:46:37-04:00",
+        "duration": 30,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/438246073.hd.mp4?s=b7fe5fc1dd38f9ee79dd5ea464790f178d8f8470&profile_id=173",
+            "quality": "UHD",
+            "videoType": "MP4",
+            "bitrate": 380971
+          }
+        ]
+      }
+    },
+    {
+      "id": "443860438",
+      "title": "Mike Cannon: Life Begins | UHD | Teaser |  4KUNIVERSE",
+      "shortDescription": "Mike Cannon: Life Begins | UHD | Teaser |  4KUNIVERSE",
+      "thumbnail": "https://i.vimeocdn.com/video/933629291_800x450.png",
+      "releaseDate": "2020-08-01T15:14:11-04:00",
+      "genres": [
+        "adventure",
+        "animated",
+        "children",
+        "documentary",
+        "drama",
+        "fashion",
+        "health",
+        "nature",
+        "reality",
+        "special",
+        "sports"
+      ],
+      "tags": [
+        "adventure",
+        "animated",
+        "children",
+        "documentary",
+        "drama",
+        "fashion",
+        "health",
+        "nature",
+        "reality",
+        "special",
+        "sports"
+      ],
+      "content": {
+        "dateAdded": "2020-08-01T15:37:54-04:00",
+        "duration": 180,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/443860438.hd.mp4?s=e46a98c6ef680de90a370b6cf1fdfe54d4cccbab&profile_id=173",
+            "quality": "UHD",
+            "videoType": "MP4",
+            "bitrate": 16777215
+          }
+        ]
+      }
+    }
+  ]
+}
