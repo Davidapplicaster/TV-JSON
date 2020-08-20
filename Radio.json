@@ -6,7 +6,7 @@
     {
       "id": "001",
       "title": "Bangin Choonz",
-      "summary": "This is an mp3 AOD",
+      "summary": "This is an mp3 AOD item with a long line of text in the summary",
       "type": {
         "value": "audio"
       },
