@@ -29,7 +29,7 @@
         "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
       },
       "extensions": {
-        "play_next_feed_url": "https://raw.githubusercontent.com/Davidapplicaster/TV-JSON/master/New%20Shows%20Wide.json",
+        "play_next_feed_url": "https://s3.amazonaws.com/assets-production.applicaster.com/qa/zapp_qa/manual/TV/videofeed.xml",
         "overlay_trigger_timestamp": 10
             }
         }
