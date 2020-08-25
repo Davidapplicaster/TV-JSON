@@ -34,7 +34,7 @@
       ],
       "content": {
         "type": "video/hls",
-        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
+        "src": "https://cdn.jwplayer.com/videos/W9iHv14R.mp4?sig=e08b5209334f1737d945323778d12646&exp=1598362004"
       },
       "extensions": {
         "start_time": "2090/05/31 01:05:00 +0000",
