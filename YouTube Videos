@@ -74,6 +74,54 @@
           ]
         }
       ]
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "QBS-NTS013",
+      "title": "Camel",
+      "summary": "",
+      "content": {
+        "src": "M0SqfOSdDsQ",
+        "type": "youtube-id"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Camel.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "QBS-NTS013",
+      "title": "Marillion",
+      "summary": "",
+      "content": {
+        "src": "Nm_TcAAySbc",
+        "type": "youtube-id"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Marillion.png"
+            }
+          ]
+        }
+      ]
     }
   ],
   "author": {
