@@ -14,7 +14,7 @@
       "type": {
         "value": "video"
       },
-      "title": "Game Of Thrones",
+      "title": "Westworld",
       "author": {
         "name": ""
       },
@@ -36,7 +36,7 @@
           "media_item": [
             {
               "key": "image_base",
-              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Game-of-Thrones-Poster.jpg",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Westworld.jpg",
               "type": "extern_image"
             }
           ]
