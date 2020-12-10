@@ -1,0 +1,250 @@
+
+  "type": {
+    "value": "feed",
+    "title": "Channel Listings"
+  },
+  "title": "Channel Listings",
+  "id": "CL115",
+  "entry": [
+    {
+      "type": {
+        "value": "feed"
+      },
+      "id": "405",
+      "title": "CH5",
+      "content": {
+        "type": "feed",
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D"
+      },
+      "media_group": [
+        {
+          "type": "thumbnail",
+          "media_item": [
+            {
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/CH51x1.jpg",
+              "scale": "small",
+              "type": "thumbnail",
+              "key": "thumbnail-small"
+            },
+            {
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/CH51x1.jpg",
+              "scale": "large",
+              "type": "thumbnail",
+              "key": "thumbnail-large"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": {
+        "value": "feed"
+      },
+      "id": "406",
+      "title": "Discovery",
+      "content": {
+        "type": "feed",
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D"
+      },
+      "media_group": [
+        {
+          "type": "thumbnail",
+          "media_item": [
+            {
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Discovery1x1.jpg",
+              "scale": "small",
+              "type": "thumbnail",
+              "key": "thumbnail-small"
+            },
+            {
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Discovery1x1.jpg",
+              "scale": "large",
+              "type": "thumbnail",
+              "key": "thumbnail-large"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": {
+        "value": "feed"
+      },
+      "id": "407",
+      "title": "CH4",
+      "content": {
+        "type": "feed",
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D"
+      },
+      "media_group": [
+        {
+          "type": "thumbnail",
+          "media_item": [
+            {
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/CH41x1.jpg",
+              "scale": "small",
+              "type": "thumbnail",
+              "key": "thumbnail-small"
+            },
+            {
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/CH41x1.jpg",
+              "scale": "large",
+              "type": "thumbnail",
+              "key": "thumbnail-large"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": {
+        "value": "feed"
+      },
+      "id": "408",
+      "title": "Quest",
+      "content": {
+        "type": "feed",
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D"
+      },
+      "media_group": [
+        {
+          "type": "thumbnail",
+          "media_item": [
+            {
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Quest1x1.jpg",
+              "scale": "small",
+              "type": "thumbnail",
+              "key": "thumbnail-small"
+            },
+            {
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Quest1x1.jpg",
+              "scale": "large",
+              "type": "thumbnail",
+              "key": "thumbnail-large"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": {
+        "value": "feed"
+      },
+      "id": "412",
+      "title": "ABC",
+      "content": {
+        "type": "feed",
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D"
+      },
+      "media_group": [
+        {
+          "type": "thumbnail",
+          "media_item": [
+            {
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/abc1x1.jpg",
+              "scale": "small",
+              "type": "thumbnail",
+              "key": "thumbnail-small"
+            },
+            {
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/abc1x1.jpg",
+              "scale": "large",
+              "type": "thumbnail",
+              "key": "thumbnail-large"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": {
+        "value": "feed"
+      },
+      "id": "413",
+      "title": "AMC",
+      "content": {
+        "type": "feed",
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D"
+      },
+      "media_group": [
+        {
+          "type": "thumbnail",
+          "media_item": [
+            {
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/amc1x1.jpg",
+              "scale": "small",
+              "type": "thumbnail",
+              "key": "thumbnail-small"
+            },
+            {
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/amc1x1.jpg",
+              "scale": "large",
+              "type": "thumbnail",
+              "key": "thumbnail-large"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": {
+        "value": "feed"
+      },
+      "id": "415",
+      "title": "CBS",
+      "content": {
+        "type": "feed",
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D"
+      },
+      "media_group": [
+        {
+          "type": "thumbnail",
+          "media_item": [
+            {
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/CBSaction1x1.jpg",
+              "scale": "small",
+              "type": "thumbnail",
+              "key": "thumbnail-small"
+            },
+            {
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/CBSaction1x1.jpg",
+              "scale": "large",
+              "type": "thumbnail",
+              "key": "thumbnail-large"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": {
+        "value": "feed"
+      },
+      "id": "420",
+      "title": "HGTV",
+      "content": {
+        "type": "feed",
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhdmlkYXBwbGljYXN0ZXIvVFYtSlNPTi9tYXN0ZXIvQ2hhbm5lbExpc3ROZXdEYXlzLmpzb24%3D"
+      },
+      "media_group": [
+        {
+          "type": "thumbnail",
+          "media_item": [
+            {
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Reality1x1.jpg",
+              "scale": "small",
+              "type": "thumbnail",
+              "key": "thumbnail-small"
+            },
+            {
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Reality1x1.jpg",
+              "scale": "large",
+              "type": "thumbnail",
+              "key": "thumbnail-large"
+            }
+          ]
+        }
+      ]
+    },
+  ]
+}
