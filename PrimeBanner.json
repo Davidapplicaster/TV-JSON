@@ -12,15 +12,11 @@
         "type": "text/html"
       },
       "type": {
-        "value": "video"
+        "value": "link"
       },
       "title": "The Hobbit: The Battle of the Five Armies (2014)",
       "author": {
         "name": ""
-      },
-      "content": {
-        "src": "https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8",
-        "type": "video/hls"
       },
       "summary": "Bilbo and company are forced to engage in a war against an array of combatants and keep the Lonely Mountain from falling into the hands of a rising darkness.",
       "updated": "2019-11-15T10:41:03+00:00",
