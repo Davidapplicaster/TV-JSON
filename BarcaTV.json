@@ -11,7 +11,8 @@
         "value": "video"
       },
       "content": {
-        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8",
+        "type": "video/hls"
       },
       "media_group": [
         {
@@ -83,7 +84,7 @@
     },
     {
       "id": "004",
-      "title": "My Top 4: Miralem Pjanic names his fottball heroes",
+      "title": "My Top 4: Miralem Pjanic names his football heroes",
       "summary": "",
       "type": {
         "value": "video"
