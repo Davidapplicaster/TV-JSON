@@ -1,0 +1,169 @@
+{
+  "type": {
+    "value": "feed"
+  },
+  "entry": [
+    {
+      "id": "001",
+      "title": "Behind the scenes | Miralem Pjanic unveiled",
+      "summary": "",
+      "type": {
+        "value": "video"
+      },
+      "content": {
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/BarcaTV1.png",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "duration": 183
+      }
+    },
+    {
+      "id": "002",
+      "title": "  Pjanic and Todibo join the squad",
+      "summary": "",
+      "type": {
+        "value": "video"
+      },
+      "content": {
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/BarcaTV2.png",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "duration": 243
+      }
+    },
+    {
+      "id": "003",
+      "title": "Welcome: Miralem Pjanic",
+      "summary": "",
+      "type": {
+        "value": "video"
+      },
+      "content": {
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/BarcaTV3.png",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "duration": 209
+      }
+    },
+    {
+      "id": "004",
+      "title": "My Top 4: Miralem Pjanic names his fottball heroes",
+      "summary": "",
+      "type": {
+        "value": "video"
+      },
+      "content": {
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/BarcaTV4.png",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "duration": 198
+      }
+    },
+    {
+      "id": "005",
+      "title": "Miralem Pjanic's 'Clássico' dream comes true",
+      "summary": "",
+      "type": {
+        "value": "video"
+      },
+      "content": {
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/BarcaTV6.png",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "duration": 202
+      }
+    },
+    {
+      "id": "006",
+      "title": "Pjanic vs Neto: 7 Second Challenge UCL Special!",
+      "summary": "",
+      "type": {
+        "value": "video"
+      },
+      "content": {
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/BarcaTV7.png",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "duration": 312
+      }
+    }
+  ],
+  "author": {
+    "name": "Applicaster"
+  },
+  "id": "LVE-001",
+  "title": "Miralem Pjanic",
+  "description": ""
+}
