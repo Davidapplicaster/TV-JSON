@@ -1,0 +1,49 @@
+{
+  "author": {
+    "name": "Applicaster"
+  },
+  "id": "MP-Hero",
+  "title": "Miralem Pjanic",
+  "type": {
+    "value": "feed"
+  },
+  "entry": [
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "pcol-1",
+      "title": "Miralem",
+      "summary": "Pjanic",
+      "content": {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+        "type": "video/hls"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Pjanic_Poster.png",
+              "type": "extern_image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_8x3",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Pjanic_Poster.png",
+              "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "section": "Miralem Pjanic"
+      }
+    }
+  ]
+}
