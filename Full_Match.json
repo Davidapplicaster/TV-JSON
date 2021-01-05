@@ -1,0 +1,49 @@
+{
+  "author": {
+    "name": "Applicaster"
+  },
+  "id": "MP-Hero",
+  "title": "Miralem Pjanic",
+  "type": {
+    "value": "feed"
+  },
+  "entry": [
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "pcol-1",
+      "title": "Barça 6-1 PSG (16/17) Full match",
+      "summary": "After a resounding loss in the first leg of the round of 16 at the Parc des Princes, FC Barcelona would become the first team in the history of the Champions League to overcome an 4-0 deficit in a tie. Relive a magical night at the Camp Nou in which, when it seemed that everything was lost, Sergi Roberto scored the decisive goal in the last minute that would make Barça qualify for the competition's quarterfinals and confirm a historic comeback.",
+      "content": {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+        "type": "video/hls"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Full%20Match.jpg",
+              "type": "extern_image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_11x5",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Full%20Match.jpg",
+              "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "section": ""
+      }
+    }
+  ]
+}
