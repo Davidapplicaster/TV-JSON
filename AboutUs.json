@@ -1,0 +1,41 @@
+{
+  "author": {
+    "name": "Applicaster"
+  },
+  "id": "Applicaster_Banner-1",
+  "title": "About Us",
+  "type": {
+    "value": "feed"
+  },
+  "entry": [
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "4x1-1",
+      "title": "Turbopower Media App Development ",
+      "summary": "Applicaster’s mission is to give media companies a better way to create apps."
+
+The Zapp Platform is a revolutionary, new toolset that shrinks time to market, reduces development and maintenance costs, and increases post-launch agility.",
+      "content": {
+        "src": "",
+        "type": "feed"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Zapp%20banner%204x1.png",
+              "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+
+      }
+    }
+  ]
+}
