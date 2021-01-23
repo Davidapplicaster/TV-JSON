@@ -242,6 +242,16 @@
           "type": "image",
           "media_item": [
             {
+              "key": "image_mobile_16x9",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/BBB-Mobile-16x9.jpg",
+              "type": "extern_image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
               "key": "image_mobile_2x3",
               "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/BBB-Mobile-2x3.jpg",
               "type": "extern_image"
