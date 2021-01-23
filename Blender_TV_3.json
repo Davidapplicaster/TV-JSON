@@ -91,7 +91,7 @@
         "type": "text/html"
       },
       "type": {
-        "value": "video"
+        "value": "feed"
       },
       "title": "Big Buck Bunny",
       "author": {
@@ -170,7 +170,7 @@
         "type": "text/html"
       },
       "type": {
-        "value": "video"
+        "value": "article"
       },
       "title": "Elephant's Dream",
       "author": {
@@ -249,7 +249,7 @@
         "type": "text/html"
       },
       "type": {
-        "value": "video"
+        "value": "link"
       },
       "title": "Sintel",
       "author": {
@@ -328,7 +328,7 @@
         "type": "text/html"
       },
       "type": {
-        "value": "video"
+        "value": "program"
       },
       "title": "Big Buck Bunny",
       "author": {
