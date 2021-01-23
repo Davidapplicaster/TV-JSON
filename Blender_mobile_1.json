@@ -27,7 +27,7 @@
       "published": "2019-11-15T10:31:00+00:00",
       "extensions": {
         "free": true,
-        "section": "BBC1",
+        "section": "Comedy",
         "duration": 720
       },
       "media_group": [
@@ -96,7 +96,7 @@
       "published": "2019-11-15T09:54:00+00:00",
       "extensions": {
         "free": false,
-        "section": "BBC2",
+        "section": "Drama",
         "duration": 660
       },
       "media_group": [
@@ -165,7 +165,7 @@
       "published": "2019-11-15T09:54:00+00:00",
       "extensions": {
         "free": false,
-        "section": "ITV1",
+        "section": "Sci-Fi",
         "duration": 900
       },
       "media_group": [
@@ -234,7 +234,7 @@
       "published": "2019-11-15T10:31:00+00:00",
       "extensions": {
         "free": true,
-        "section": "ITV2",
+        "section": "Comedy",
         "duration": 720
       },
       "media_group": [
@@ -303,7 +303,7 @@
       "published": "2019-11-15T09:54:00+00:00",
       "extensions": {
         "free": false,
-        "section": "CH4",
+        "section": "Drama",
         "duration": 660
       },
       "media_group": [
@@ -372,7 +372,7 @@
       "published": "2019-11-15T09:54:00+00:00",
       "extensions": {
         "free": false,
-        "section": "CH5",
+        "section": "Sci-Fi",
         "duration": 900
       },
       "media_group": [
@@ -441,7 +441,7 @@
       "published": "2019-11-15T10:31:00+00:00",
       "extensions": {
         "free": true,
-        "section": "BBC1",
+        "section": "Comedy",
         "duration": 720
       },
       "media_group": [
@@ -510,7 +510,7 @@
       "published": "2019-11-15T09:54:00+00:00",
       "extensions": {
         "free": false,
-        "section": "BBC2",
+        "section": "Drama",
         "duration": 660
       },
       "media_group": [
@@ -579,7 +579,7 @@
       "published": "2019-11-15T09:54:00+00:00",
       "extensions": {
         "free": false,
-        "section": "ITV1",
+        "section": "Sci-Fi",
         "duration": 900
       },
       "media_group": [
@@ -648,7 +648,7 @@
       "published": "2019-11-15T10:31:00+00:00",
       "extensions": {
         "free": true,
-        "section": "ITV2",
+        "section": "Comedy",
         "duration": 720
       },
       "media_group": [
@@ -717,7 +717,7 @@
       "published": "2019-11-15T09:54:00+00:00",
       "extensions": {
         "free": false,
-        "section": "CH4",
+        "section": "Drama",
         "duration": 660
       },
       "media_group": [
@@ -786,7 +786,7 @@
       "published": "2019-11-15T09:54:00+00:00",
       "extensions": {
         "free": false,
-        "section": "CH5",
+        "section": "Sci-Fi",
         "duration": 900
       },
       "media_group": [
