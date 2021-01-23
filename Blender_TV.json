@@ -91,7 +91,7 @@
         "type": "text/html"
       },
       "type": {
-        "value": "video"
+        "value": "feed"
       },
       "title": "Elephant's Dream",
       "author": {
@@ -170,7 +170,7 @@
         "type": "text/html"
       },
       "type": {
-        "value": "video"
+        "value": "article"
       },
       "title": "Sintel",
       "author": {
@@ -249,7 +249,7 @@
         "type": "text/html"
       },
       "type": {
-        "value": "video"
+        "value": "link"
       },
       "title": "Big Buck Bunny",
       "author": {
