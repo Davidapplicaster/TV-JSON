@@ -321,7 +321,7 @@
           "type": "image",
           "media_item": [
             {
-              "key": "image_TV_4x3",
+              "key": "image_mobile_4x3",
               "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/ED-Mobile-4x3.jpg",
               "type": "extern_image"
             }
@@ -518,7 +518,7 @@
           "type": "image",
           "media_item": [
             {
-              "key": "image_TV_4x3",
+              "key": "image_mobile_4x3",
               "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/ED-Mobile-4x3.jpg",
               "type": "extern_image"
             }
@@ -636,8 +636,8 @@
           "type": "image",
           "media_item": [
             {
-              "key": "image_TV_16x9",
-              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/BBB-TV-16x9.jpg",
+              "key": "image_mobile_16x9",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/BBB-Mobile-16x9.jpg",
               "type": "extern_image"
             }
           ]
@@ -646,8 +646,8 @@
           "type": "image",
           "media_item": [
             {
-              "key": "image_TV_2x3",
-              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/BBB-TV-2x3.jpg",
+              "key": "image_mobile_2x3",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/BBB-Mobile-2x3.jpg",
               "type": "extern_image"
             }
           ]
@@ -656,8 +656,8 @@
           "type": "image",
           "media_item": [
             {
-              "key": "image_TV_3x4",
-              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/BBB-TV-3x1.jpg",
+              "key": "image_mobile_4x3",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/BBB-Mobile-4x3.jpg",
               "type": "extern_image"
             }
           ]
@@ -666,18 +666,8 @@
           "type": "image",
           "media_item": [
             {
-              "key": "image_TV_6x1",
-              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/BBB-TV-6x1.jpg",
-              "type": "extern_image"
-            }
-          ]
-        },
-        {
-          "type": "image",
-          "media_item": [
-            {
-              "key": "image_TV_8x1",
-              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/BBB-TV-8x1.jpg",
+              "key": "image_mobile_1x1",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/BBB-Mobile-1x1.jpg",
               "type": "extern_image"
             }
           ]
@@ -715,8 +705,8 @@
           "type": "image",
           "media_item": [
             {
-              "key": "image_TV_16x9",
-              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/ED-TV-16x9.jpg",
+              "key": "image_mobile_16x9",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/ED-Mobile-16x9.jpg",
               "type": "extern_image"
             }
           ]
@@ -725,8 +715,8 @@
           "type": "image",
           "media_item": [
             {
-              "key": "image_TV_2x3",
-              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/ED-TV-2x3.jpg",
+              "key": "image_mobile_2x3",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/ED-Mobile-2x3.jpg",
               "type": "extern_image"
             }
           ]
@@ -735,8 +725,8 @@
           "type": "image",
           "media_item": [
             {
-              "key": "image_TV_3x4",
-              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/ED-TV-3x1.jpg",
+              "key": "image_mobile_4x3",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/ED-Mobile-4x3.jpg",
               "type": "extern_image"
             }
           ]
@@ -745,18 +735,8 @@
           "type": "image",
           "media_item": [
             {
-              "key": "image_TV_6x1",
-              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/ED-TV-6x1.jpg",
-              "type": "extern_image"
-            }
-          ]
-        },
-        {
-          "type": "image",
-          "media_item": [
-            {
-              "key": "image_TV_8x1",
-              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/ED-TV-8x1.jpg",
+              "key": "image_mobile_1x1",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/ED-Mobile-1x1.jpg",
               "type": "extern_image"
             }
           ]
