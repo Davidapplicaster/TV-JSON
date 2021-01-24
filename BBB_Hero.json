@@ -1,0 +1,49 @@
+{
+  "author": {
+    "name": "Applicaster"
+  },
+  "id": "PeachCol",
+  "title": "Peach Blender Collection",
+  "type": {
+    "value": "feed"
+  },
+  "entry": [
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "peachcol-1",
+      "title": "Peach Blender: The Complete Collection",
+      "summary": "Binge on all of the Peach Blender films right here",
+      "content": {
+      "src": "https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8",
+      "type": "video/hls"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/bbb-hero.png",
+              "type": "extern_image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_4x1",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/bbb-hero.png",
+              "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "section": "Just Added"
+      }
+    }
+  ]
+}
