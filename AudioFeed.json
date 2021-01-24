@@ -19,7 +19,7 @@
           "media_item": [
             {
               "type": "image",
-              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Radio_1.jpg",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Podcast.jpg",
               "key": "image_base"
             }
           ]
@@ -53,7 +53,7 @@
           "media_item": [
             {
               "type": "image",
-              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Radio_2.png",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Podcast.jpg",
               "key": "image_base"
             }
           ]
