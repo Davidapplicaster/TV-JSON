@@ -11,8 +11,8 @@
       "type": {
         "value": "video"
       },
-      "title": "Escape To The Country",
-      "summary": "Sonali Shah heads to the Norfolk countryside with a couple planning to buy their first home together, who have high hopes that their £375,000 budget will afford them a character property",
+      "title": "Big Buck Bunny",
+      "summary": "A large and lovable rabbit deals with three tiny bullies, led by a flying squirrel, who are determined to squelch his happiness.",
       "id": "001",
       "published": "Thursday, 3:30PM",
       "content": {
@@ -24,13 +24,13 @@
           "type": "thumbnail",
           "media_item": [
             {
-              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Escape.jpg",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/BBB-Mobile-16x9.jpg",
               "scale": "small",
               "type": "thumbnail",
               "key": "thumbnail-small"
             },
             {
-              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Escape.jpg",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/BBB-Mobile-16x9.jpg",
               "scale": "large",
               "type": "thumbnail",
               "key": "thumbnail-large"
