@@ -24,8 +24,8 @@
           "type": "image",
           "media_item": [
             {
-              "key": "image_base",
-              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/bbb-hero.png",
+              "key": "image_3x4",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/BBB-Hero-3x4.png",
               "type": "extern_image"
             }
           ]
@@ -35,7 +35,7 @@
           "media_item": [
             {
               "key": "image_4x1",
-              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/bbb-hero.png",
+              "src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/BBB-Hero-4x1.png",
               "type": "extern_image"
             }
           ]
